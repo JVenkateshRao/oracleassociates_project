@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)https://www.svgator.com/blog/svg-background-mistakes-to-avoid/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers</title>
+		<meta name="HandheldFriendly" content="True">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="preload" href="./main_files/SVG-background.svg" as="image" fetchpriority="”high”">
+		<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link href="./main_files/css2" rel="stylesheet">
+<link href="./main_files/css2(1)" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="./main_files/screen.css">
+		<style>hr{background-image:url("data:image/svg+xml;utf8,<svg role='img' viewBox='0 0 136 24' xmlns='http://www.w3.org/2000/svg'><path d='M1.525 1.525a3.5 3.5 0 014.95 0L20 15.05 33.525 1.525a3.5 3.5 0 014.95 0L52 15.05 65.525 1.525a3.5 3.5 0 014.95 0L84 15.05 97.525 1.525a3.5 3.5 0 014.95 0L116 15.05l13.525-13.525a3.5 3.5 0 014.95 4.95l-16 16a3.5 3.5 0 01-4.95 0L100 8.95 86.475 22.475a3.5 3.5 0 01-4.95 0L68 8.95 54.475 22.475a3.5 3.5 0 01-4.95 0L36 8.95 22.475 22.475a3.5 3.5 0 01-4.95 0l-16-16a3.5 3.5 0 010-4.95z'/></svg>")}</style>
+
+		<meta name="description" content="Create the perfect background SVG designs for any project, and build on top of their unmatched web and mobile performance by following these easy tips!">
+    <link rel="icon" href="https://www.svgator.com/blog/favicon.png" type="image/png">
+    <link rel="canonical" href="https://www.svgator.com/blog/svg-background-mistakes-to-avoid/">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    
+    <meta property="og:site_name" content="SVGator Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers">
+    <meta property="og:description" content="Want to use an SVG background as a moodsetter for your design projects? See what common slip-ups can take away from the end result, and how you can bypass them easily!">
+    <meta property="og:url" content="https://www.svgator.com/blog/svg-background-mistakes-to-avoid/">
+    <meta property="og:image" content="https://cdn.svgator.com/images/2022/06/svg-background-animation-1.png">
+    <meta property="article:published_time" content="2022-06-16T07:53:52.000Z">
+    <meta property="article:modified_time" content="2023-07-10T07:41:27.000Z">
+    <meta property="article:tag" content="Resources">
+    
+    <meta property="article:publisher" content="https://www.facebook.com/svgator/">
+    <meta property="article:author" content="https://www.facebook.com/svgator/">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers">
+    <meta name="twitter:description" content="Want to use an SVG background as a moodsetter for your design projects? See what common slip-ups can take away from the end result, and how you can bypass them easily!">
+    <meta name="twitter:url" content="https://www.svgator.com/blog/svg-background-mistakes-to-avoid/">
+    <meta name="twitter:image" content="https://cdn.svgator.com/images/2022/06/svg-background-animation.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="SVGator">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Resources">
+    <meta name="twitter:site" content="@SVGatorApp">
+    <meta name="twitter:creator" content="@SVGatorApp">
+    <meta property="og:image:width" content="1739">
+    <meta property="og:image:height" content="826">
+    
+    <script async="" src="./main_files/get_counts"></script><script type="text/javascript" async="" src="./main_files/js"></script><script type="text/javascript" async="" src="./main_files/analytics.js.download"></script><script async="" src="./main_files/clarity.js.download"></script><script async="" src="./main_files/611ccd9149abbb00129cb34b.js.download"></script><script async="" src="./main_files/e7wpjsnjln"></script><script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "SVGator Blog",
+        "url": "https://www.svgator.com/blog/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://cdn.svgator.com/images/2021/09/logo2019.svg",
+            "width": 160,
+            "height": 30
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "SVGator",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn.svgator.com/images/2019/10/1200x1200-symbol---background.png",
+            "width": 1200,
+            "height": 1200
+        },
+        "url": "https://www.svgator.com/blog/author/svgator/",
+        "sameAs": [
+            "https://www.svgator.com/",
+            "https://www.facebook.com/svgator/",
+            "https://twitter.com/SVGatorApp"
+        ]
+    },
+    "headline": "SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers",
+    "url": "https://www.svgator.com/blog/svg-background-mistakes-to-avoid/",
+    "datePublished": "2022-06-16T07:53:52.000Z",
+    "dateModified": "2023-07-10T07:41:27.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.svgator.com/images/2022/06/SVG-background.svg",
+        "width": 1300,
+        "height": 800
+    },
+    "keywords": "Resources",
+    "description": "Want to use an SVG background as a moodsetter for your design projects? See what common slip-ups can take away from the end result, and how you can bypass them easily!",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.svgator.com/blog/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 4.48">
+    <link rel="alternate" type="application/rss+xml" title="SVGator Blog" href="https://www.svgator.com/blog/rss/">
+    <script defer="" src="./main_files/portal.min.js.download" data-ghost="https://www.svgator.com/blog/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style>
+    <script defer="" src="./main_files/cards.min.js.download"></script>
+    <link rel="stylesheet" type="text/css" href="./main_files/cards.min.css">
+    <meta name="robots" content="max-image-preview: large, max-video-preview:-1">
+
+<!-- Google Analytics -->
+<script async="" src="./main_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  gtag('config', 'UA-73420884-2');
+  gtag('config', 'G-V8DQR4GMX4');
+</script>
+<!-- End Google Analytics -->
+
+<!-- Clarity -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "e7wpjsnjln");
+</script>
+<!-- End Clarity -->
+
+<script type="text/javascript" src="./main_files/sharethis.js.download" async="async"></script>
+
+<!-- Custom blog style -->
+
+<style>
+    
+	/* custom style for regular tables */
+    table {
+        border: 0px;
+    }
+    .post-content th:first-child, .post-content td:first-child{
+        padding: 16px; !important
+        
+    }
+    th{
+        background-color: #eff7fa;
+    }
+    tr:nth-child(odd){
+        background-color: #eff7fa;
+    }
+    
+    td {
+		min-width: 100px;        
+    }
+    /* end of custom style for regular tables */
+    
+    /* custom style for wide tables */
+    table.wide {
+        width: 100%;
+        max-width: 100%;
+        border: 0px;
+    }
+    
+    .mobile-table {
+        overflow-x: auto;
+        overflow-y: auto;
+    }
+    
+    .post-content th:first-child, .post-content td:first-child{
+        padding: 16px; !important
+        
+    }
+    th{
+        background-color: #eff7fa;
+    }
+    tr:nth-child(odd){
+        background-color: #eff7fa;
+    }
+    
+    @media screen and (min-width: 768px) {
+    	table.wide {
+        	width: 140%;
+        	max-width: 140%;
+        	margin-left: -20%;
+    	}
+         .mobile-table {
+        	overflow-x: visible;
+        	overflow-y: visible;
+    	}
+    }
+    /* end of custom style for wide tables */
+    
+
+    #image-table td /* removes styling from image tables */{
+        background-color: #ffffff;
+        border: 0px;
+    }  
+    
+    .kg-card /* callouts style without colors */{
+    border-radius: 8px;
+    }
+
+    .item.is-hero .item-image /* forces square cover image when titles are too long */{
+    max-height: 600px;
+    }
+    
+    /* multiple images or graphics in a row */
+    .figure-container {
+    display: flex;
+    }
+    
+    .figure-container > div {
+    max-width: 50%;
+    margin: 0.75em;
+    }
+    
+    .figure-container img {
+    border-radius: 0!important;
+	--border-radius: 0!important;
+    }    
+    /* end of multiple images or graphics in a row */
+    
+    /* custom styles for 'sharethis' share buttons */
+    .st-total {
+        box-sizing: border-box;
+    }
+    /* end of custom styles for 'sharethis' share buttons */
+
+</style>
+
+<!-- End of custom blog style -->
+
+    <style>
+element.style {
+}
+.post-content img, .post-content p img {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
+}
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "What Is an SVG Background?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An SVG background image has the same features as any other scalable vector graphic, performance-wise. It is significantly smaller in size (compared to any of its raster counterparts), it is infinitely scalable, and it is fully-responsive. It will never lose sharpness or clarity no matter the screen size or resolution of the device it’s displayed on."
+    }
+  }
+}
+</script><style>:root {--ghost-accent-color: #166BFF;}</style>
+	<style>
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZVJvb3QiOiIifQ== */</style><style>
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZVJvb3QiOiIifQ== */</style><style type="text/css">#st-2 {
+  font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  backface-visibility: hidden;
+  display: block;
+  position: fixed;
+  opacity: 1;
+  text-align: left;
+  top: 400px;
+  z-index: 94034;
+}
+#st-2.st-left {
+  left: 0px;
+}
+#st-2.st-hidden.st-left {
+  left: -40px;
+}
+#st-2.st-hidden {
+  width: 80px;
+}
+#st-2.st-preview {
+  display: none!important;
+  opacity: 0!important;
+}
+#st-2 > div {
+  clear: left;
+  float: left;
+}
+#st-2 .st-btn {
+  -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  height: 40px;
+  line-height: 20px;
+  margin-bottom: 0;
+  opacity: 1;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: left;
+  top: 0;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 40px;
+}
+#st-2 .st-btn.st-first {
+  border-top: none;
+  border-top-right-radius: 4px;
+}
+#st-2 .st-btn.st-last {
+  border-bottom: none;
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn > svg {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 20px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 20px;
+}
+#st-2 .st-btn > img {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  height: 20px;
+  margin-left: 0;
+  vertical-align: top;
+  width: 20px;
+}
+#st-2 .st-btn > span {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  left: -35px;
+  letter-spacing: 0.5px;
+  opacity: 0;
+  padding: 0 6px;
+  position: relative;
+  vertical-align: top;
+  filter: alpha(opacity=0);
+}
+#st-2 .st-btn.st-hide-label > span {
+  display: none !important;
+}
+#st-2 .st-total {
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #fff;
+  color: #555;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 15px;
+  margin-right: 0;
+  min-height: 34px;
+  max-width: 80px;
+  opacity: 1;
+  padding: 4px 0;
+  text-align: center;
+  width: 40px;
+}
+#st-2 .st-total.st-hidden {
+  display: none;
+}
+#st-2 .st-total > span {
+  display: block;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 0;
+}
+#st-2 .st-total > span.st-shares {
+  font-size: 9px;
+  line-height: 9px;
+}
+#st-2 .st-toggle {
+  left: -40px;
+  -moz-transition: all 0.2s ease-in; -ms-transition: all 0.2s ease-in; -o-transition: all 0.2s ease-in; -webkit-transition: all 0.2s ease-in; transition: all 0.2s ease-in;
+  background: #ccc;
+  border-bottom-right-radius: 4px;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  width: 40px;
+}
+#st-2.st-hidden .st-toggle {
+  border-top-right-radius: 4px;
+}
+#st-2.st-left .st-toggle .st-left {
+  display: inline-block;
+}
+#st-2.st-left.st-hidden .st-toggle .st-left {
+  display: none;
+}
+#st-2.st-left .st-toggle .st-right {
+  display: none;
+}
+#st-2.st-left.st-hidden .st-toggle .st-right {
+  display: inline-block;
+}#st-2:hover .st-toggle {
+  left: 0;
+}
+#st-2.st-hidden:hover .st-toggle {
+  left: 40px;
+}
+#st-2.st-toggleable:hover .st-btn.st-last {
+  border-bottom-right-radius: 0;
+}
+#st-2.st-toggleable:hover .st-btn.st-last:hover {
+  border-bottom-right-radius: 4px;
+}
+#st-2 .st-btn:hover {
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+#st-2.st-has-labels .st-btn:hover {
+  width: 120px;
+}
+#st-2:not(.st-has-labels) .st-btn:hover {
+  width: 52px;
+}
+#st-2 .st-btn.st-hide-label:hover {
+  width: 52px;
+}
+#st-2 .st-btn:hover > svg {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > img {
+  margin-left: 5px;
+}
+#st-2 .st-btn:hover > span {
+  opacity: 1;
+  display: inline-block;
+  left: 0;
+  filter: alpha(opacity=100);
+}
+@media (max-width: 1024px) {
+  #st-2 .st-btn:hover > svg {
+    margin-left: 0;
+  }
+  #st-2 .st-btn:hover > span {
+    display: none;
+  }
+}@media (max-width: 1024px) {
+  #st-2 {
+  bottom: 0;
+  display: flex;
+  left: 0;
+  right: 0;
+  top: auto;
+  width: 100%;
+}
+#st-2.st-hidden {
+  bottom: -40px;
+  width: 100%;
+}
+#st-2.st-hidden.st-left {
+  left: 0;
+}
+#st-2.st-hidden.st-right {
+  right: 0;
+}
+#st-2 > div {
+  -moz-flex: 1;
+  -ms-flex: 1;
+  -webkit-flex: 1;
+  clear: none;
+  flex: 1;
+  float: none;
+}
+#st-2 .st-total {
+  background: #fff;
+  padding: 6px 8px;
+}
+#st-2 .st-btn {
+  -moz-border-radius: 0 !important;
+-webkit-border-radius: 0 !important;
+border-radius: 0 !important;
+  text-align: center;
+  width: auto;
+}
+#st-2 .st-btn > span {
+  display: none;
+}
+#st-2 .st-toggle {
+  display: none;
+}body { padding-bottom: 48px; }
+}#st-2 .st-btn[data-network='facebook'] {
+  background-color: #4267B2
+}
+#st-2 .st-btn[data-network='facebook'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='facebook'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='twitter'] {
+  background-color: #000000
+}
+#st-2 .st-btn[data-network='twitter'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='twitter'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='pinterest'] {
+  background-color: #CB2027
+}
+#st-2 .st-btn[data-network='pinterest'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='pinterest'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='sharethis'] {
+  background-color: #95D03A
+}
+#st-2 .st-btn[data-network='sharethis'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='sharethis'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='messenger'] {
+  background-color: #448AFF
+}
+#st-2 .st-btn[data-network='messenger'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='messenger'] > span {
+  color: #fff
+}
+#st-2 .st-btn[data-network='reddit'] {
+  background-color: #ff4500
+}
+#st-2 .st-btn[data-network='reddit'] img {
+  filter: 
+}
+#st-2 .st-btn[data-network='reddit'] > span {
+  color: #fff
+}#st-2 .st-btn[data-network='snapchat'] > span {
+  color: #333};
+}#st-2 .st-btn[data-network='copy']:hover {
+  width: max-content;
+}</style><style id="lightense-images-css">
+:root {
+  --lightense-z-index: 999999;
+  --lightense-backdrop: rgba(255, 255, 255, .98);
+  --lightense-backdrop-safari: rgba(255, 255, 255, 0.6859999999999999);
+  --lightense-duration: 300ms;
+  --lightense-timing-func: cubic-bezier(.2, 0, .1, 1);
+}
+
+.lightense-backdrop {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: calc(var(--lightense-z-index) - 1);
+  padding: 0;
+  margin: 0;
+  transition: opacity var(--lightense-duration) ease;
+  cursor: zoom-out;
+  opacity: 0;
+  background-color: var(--lightense-backdrop);
+  visibility: hidden;
+}
+
+@supports (-webkit-backdrop-filter: blur(30px)) {
+  .lightense-backdrop {
+    background-color: var(--lightense-backdrop-safari);
+    -webkit-backdrop-filter: blur(30px);
+  }
+}
+
+@supports (backdrop-filter: blur(30px)) {
+  .lightense-backdrop {
+    background-color: var(--lightense-backdrop-safari);
+    backdrop-filter: blur(30px);
+  }
+}
+
+.lightense-wrap {
+  position: relative;
+  transition: transform var(--lightense-duration) var(--lightense-timing-func);
+  z-index: var(--lightense-z-index);
+  pointer-events: none;
+}
+
+.lightense-target {
+  cursor: zoom-in;
+  transition: transform var(--lightense-duration) var(--lightense-timing-func);
+  pointer-events: auto;
+}
+
+.lightense-open {
+  cursor: zoom-out;
+}
+
+.lightense-transitioning {
+  pointer-events: none;
+}</style></head>
+	<body class="post-template tag-resources">
+		<div class="global-wrap">
+			<div class="global-content">
+				<header class="header-section">
+	<div class="header-wrap">
+		<div class="header-logo is-image">
+			<a href="https://www.svgator.com/" class="is-image"><img src="./main_files/logo2019.svg" alt="SVGator Blog"></a>
+		</div>
+		<div class="header-right">
+		<div class="header-nav">
+			<input id="toggle" class="header-checkbox" type="checkbox">
+			<label class="header-toggle" for="toggle">
+				<span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+				</span>
+			</label>
+			<nav>
+            	<ul>
+            	<li id="search-open" class="header-search"><span>Search</span><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M16.281 19.26c-1.675 1.022-3.855 1.695-5.784 1.693C4.7 20.952 0 16.261 0 10.476S4.7 0 10.497 0s10.497 4.69 10.497 10.476c0 2-.633 4.034-1.618 5.644l3.902 3.893c.465.465.743 1.1.721 1.753-.04 1.121-.78 2-2.034 2.105-.663.056-1.313-.25-1.782-.717l-3.902-3.894zm-5.748-2.54c3.426-.02 6.238-2.841 6.238-6.265 0-3.435-2.834-6.264-6.275-6.264-3.443 0-6.278 2.829-6.278 6.264s2.835 6.262 6.278 6.262l.037.002z"></path></svg></li>
+            	
+<li><a href="https://www.svgator.com/blog/">BLOG</a></li>
+<li><a href="https://www.svgator.com/tutorials">TUTORIALS</a></li>
+<li><a href="https://www.svgator.com/pricing">PRICING</a></li>
+<li><a href="https://app.svgator.com/auth/register#/">LOG IN</a></li>
+
+            	</ul>
+            </nav>
+		</div>
+		<div class="header-nav header-nav-desktop">
+			<nav>
+				<ul>
+                    <li class="signup">
+                        <a href="https://app.svgator.com/auth/register">Sign up</a>
+                    </li>
+				</ul>
+			</nav>
+		</div>
+		</div>
+	</div>
+</header>
+				<main class="global-main">
+					<progress class="post-progress" value="0.0635670851024588"></progress>
+<article class="post-section">
+	<div class="post-header item is-hero">
+	<div class="item-container">
+		<div class="item-image global-image">
+			<img src="./main_files/SVG-background.svg" fetchpriority="high" alt="SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers">
+		</div>
+		<div class="item-content">
+			<div class="item-tags global-tags">
+								<a href="https://www.svgator.com/blog/tag/resources/">Resources</a>
+			</div>
+			<h1 class="item-title">SVG Background: 5 Mistakes to Avoid and a Few Useful Pointers</h1>
+			<p class="item-excerpt global-zigzag">
+				<svg role="img" viewBox="0 0 136 24" xmlns="http://www.w3.org/2000/svg"><path d="M1.525 1.525a3.5 3.5 0 014.95 0L20 15.05 33.525 1.525a3.5 3.5 0 014.95 0L52 15.05 65.525 1.525a3.5 3.5 0 014.95 0L84 15.05 97.525 1.525a3.5 3.5 0 014.95 0L116 15.05l13.525-13.525a3.5 3.5 0 014.95 4.95l-16 16a3.5 3.5 0 01-4.95 0L100 8.95 86.475 22.475a3.5 3.5 0 01-4.95 0L68 8.95 54.475 22.475a3.5 3.5 0 01-4.95 0L36 8.95 22.475 22.475a3.5 3.5 0 01-4.95 0l-16-16a3.5 3.5 0 010-4.95z"></path></svg>				Want to use an SVG background as a moodsetter for your design projects? See what common slip-ups can take away from the end result, and how you can bypass them easily!
+			</p>
+			<div class="item-meta global-meta">
+				<div class="item-profile-image">
+					<a href="https://www.svgator.com/blog/author/svgator/" class="global-image">
+						<img src="./main_files/1200x1200-symbol---background.png" loading="lazy" alt="SVGator">					</a>
+				</div>
+				<div class="item-authors">
+					<a href="https://www.svgator.com/blog/author/svgator/">SVGator</a>
+					<div class="item-time">
+						<time datetime="2022-06-16">June 16, 2022</time>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	<div class="post-content">
+		<p>If there’s one area of digital visual design that we’ve seen evolve without much struggle, it’s certainly background design. Everyone seemed to get on the same page relatively quickly, particularly before high-speed internet services became globally accessible. An SVG background was the easiest switch to make to avoid using heavy slow-to-load background images. <br><br>SVG background graphics, created with free SVG creator tools like <a href="https://www.svgator.com/create-svg">SVGator</a> or generated using tools like Matt Visiwig’s <a href="https://www.svgbackgrounds.com/">SVGBackgrounds</a>, make it effortless for designers to have a quick-to-load web and mobile-friendly background done in a matter of a few clicks.<br><br>As easy as it sounds, there are a few common mistakes that can cancel out the benefits of using an SVG background image. Let’s address these kinks and see what tactics you can implement to get it right each and every time! </p><!--kg-card-begin: html--><object type="image/svg+xml" data="./main_files/animated-svg-background-css.svg" alt="Example of a SVG animated background" img="" width="100%">
+<img src="./main_files/animated-svg-background-css.svg" alt="Example of a SVG animated background" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><h2 id="what-is-an-svg-background">What Is an SVG Background?</h2><p>As iconic (and nostalgic!) as 90s website backgrounds were, they were an outright pain to load, though a joy to see on <a href="https://www.easytechjunkie.com/what-is-a-crt-monitor.htm">CRT screens</a> for the first time! We have to thank them for testing our patience, because we haven’t stopped looking for ways to make all things digital load faster ever since! </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/svg-background-pattern-90-retro-nostalgia.png" class="kg-image lightense-target" alt="SVG background inspired by the 90s space nostalgia" loading="lazy" width="1600" height="891"><figcaption>Blast from the past: 90s inspired web design by <a href="https://www.cameronsworld.net/">CameronsWorld</a></figcaption></figure><p>An SVG background image has the same features as any other scalable vector graphic, performance-wise. It is significantly smaller in size (compared to any of its raster counterparts), it is infinitely scalable, and it is fully-responsive. It will never lose sharpness or clarity no matter the screen size or resolution of the device it’s displayed on. &nbsp;<br><br>Using SVG as a background image is technically no different than using other formats (<a href="https://www.vectornator.io/blog/difference-between-svg-vs-png/">like PNG</a> or JPG). The vector format simply has the incontestable upper hand when it comes to loading speed. A static fullscreen background SVG file can easily come under 5KB, and even an SVG background animation can have a file size as small as 8KB.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/use-svg-as-background-image-particle-strokes.svg" class="kg-image lightense-target" alt="Animated background with particles moving around" loading="lazy" width="700" height="400"><figcaption>By SVGator</figcaption></figure><h2 id="5-svg-background-mistakes-to-avoid">5 SVG Background Mistakes to Avoid<br></h2><p>As with any other form of digital design, the SVG background isn’t exempt from following an (albeit permissive) rulebook. That’s not to say that there is a definite right or wrong way to go about creating background scalable vector graphics. But there are a few mistakes that might be holding you back from creating truly outstanding vector backgrounds.</p><p>Don’t worry; we’re not here to only point a finger! We’re also sharing some easy tips that you can carry over into your SVG background design workflow and never second guess yourself again!</p><h3 id="limiting-yourself-to-a-static-svg-background-image">Limiting yourself to a static SVG background image</h3><p>Few things are easier, or quicker, to do than just settling on an SVG background color and moving on to more pressing design choices. Sure, you’ll need to put more thought into what UI design style to pursue, or what type of iconography would make for a more intuitive user experience. But, in this case, you’re 100% selling yourself short of a way more enthralling design altogether. <br><br>Creating an animated SVG background that captures user attention has the same effect as setting the ambiance of an environment to match the “event.” Why have a candle-lit dinner in a neon-lit room, when you could be hanging up fairy lights and have a dimly lit view of the night skyline? By incorporating <a href="https://www.svgator.com/vector-animation-software">vector animation</a> into the design process, you increase your ability to customize the user navigation journey tenfold.</p><!--kg-card-begin: html--><object type="image/svg+xml" data="./main_files/animated-svg-background-example.svg" alt="Animated Background with geometric shapes moving around" img="" width="100%">
+<img src="./main_files/animated-svg-background-example.svg" alt="Animated Background with geometric shapes moving around" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><p><strong>Key pointers</strong><br>Create your own custom animated background SVG without writing a single line of code with an online <a href="https://www.svgator.com/svg-animation-tool">SVG animation tool</a>. Explore all the ways motion vector graphics can elevate your designs, from basic gradient background animations, to floating geometric shapes, neumorphic color drops, celestial particles, and everything else in between. <br><br>Once you’re comfortable with animating an SVG background that fits the mood you’re going for, you can move right to the next level: immersive interactive SVG backgrounds! With the help of no-code <a href="https://www.svgator.com/interactive-svg-animation">interactive SVG animation</a>, you can have your backgrounds animate as they scroll into the viewport, and even include a captivating (and memorable!) parallax effect. No need to limit yourself to a static background when dynamic background animations are now easier to create more than ever before. </p><!--kg-card-begin: html--><object type="image/svg+xml" data="./main_files/svg-background-animation-interactive.svg" alt="Interactive SVG background that tells a story" img="" width="100%">
+<img src="./main_files/svg-background-animation-interactive.svg" alt="Interactive SVG background that tells a story" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><h3 id="interfering-with-visual-hierarchy-and-accessibility">Interfering with visual hierarchy and accessibility</h3><p>Entertainment and visual magnetism aside, an SVG background shouldn’t hinder your ability to establish a logical visual hierarchy, whether it be on a website’s landing page or in a <a href="https://www.svgator.com/blog/ui-animation-mobile-apps-android-ios/">mobile app’s UI</a>. Visual hierarchy, by definition, dictates that the elements of a graphic design should be arranged in the order of their importance. The designer has the responsibility to direct the user’s attention and lighten the mental load of deciding what to focus on and in what order. <br><br>In sync with keeping the viewer’s eye in the right place, making sure that your background design follows the <a href="https://www.w3.org/WAI/WCAG21/quickref/">Web Content Accessibility Guidelines</a> is a must. You wouldn’t want to put time and effort into a project only to realize you’re inadvertently limiting the size of the audience that can successfully, and comfortably, navigate your designs. &nbsp;</p><!--kg-card-begin: html--><object type="image/svg+xml" data="./main_files/background-svg-image-pattern.svg" alt="Animated background with patterns changing shapes and moving around" img="" width="100%">
+<img src="./main_files/background-svg-image-pattern.svg" alt="Animated background with patterns changing shapes and moving around" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><p><br><strong>Key pointers</strong></p><p>Take into account the <a href="https://instapage.com/blog/z-pattern-layout">Z-pattern</a> and <a href="https://uxplanet.org/f-shaped-pattern-for-reading-content-80af79cd3394">F-pattern</a> principles of digital visual hierarchy. Make sure your SVG background doesn’t distract from or obscure any vital piece of content. What we, as designers see as perfectly distinguishable might look like a blur to some users. The best practices in this case are to run <a href="https://usabilitygeek.com/an-introduction-to-website-usability-testing/">usability testing</a> periodically, and stay up to date with accessibility criteria, particularly <a href="https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html">1.4.3 Contrast (Minimum)</a>.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/svg-background-geometric-shapes.svg" class="kg-image lightense-target" alt="Animated SVG background with geometric shapes changing focus" loading="lazy" width="700" height="400"><figcaption>By SVGator</figcaption></figure><h3 id="not-optimizing-your-background-svg">Not optimizing your background SVG</h3><p>While it is true that by default your SVG background is a lightweight competitor in the file size field, we are aiming for lightning-fast loading speed in this day and age. Every second shaved off that page load time puts us one step closer to offering a better user experience. <br><br>An animated background SVG, topped with a few cool animation effects, can run up the numbers easily and put a damper on your design’s otherwise optimal performance. For example, if you’re starting your background design SVG in a program like Illustrator, and then moving to SVGator to breathe life into the project, you can carry over quite a bit of “bloat.” But luckily, there are ways to trim off the excess!</p><!--kg-card-begin: html--><object type="image/png" data="./main_files/Optimize-svg-improve-pagespeed-google.png" alt="Reduce the number of nodes in a SVG for better performance" img="" width="100%">
+<img src="./main_files/Optimize-svg-improve-pagespeed-google.png" alt="Reduce the number of nodes in a SVG for better performance" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><p><strong>Key pointers</strong></p><p>In the case of Illustrator imports, changes as small as using a simplified path to draw your background elements and avoiding setting your Pencil or Brush tools to Accurate can make a huge difference in how large the end-file turns out to be. </p><p>Follow the tips from our “<a href="https://www.svgator.com/blog/svg-optimizations-improve-page-speed/">Optimize SVG Animations to Improve Your Page Speed</a>” blog post, and optimize your SVG background to get complex results like the example below with a featherlight file size of only 50KB!</p><!--kg-card-begin: html--><object type="image/svg+xml" data="./main_files/svg-texture-background-geometric.svg" alt="Animated SVG background with colorful textures moving around" img="" width="100%">
+<img src="./main_files/svg-texture-background-geometric.svg" alt="Animated SVG background with colorful textures moving around" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><h3 id="not-prototyping-with-your-svg-background">Not prototyping with your SVG background</h3><p>Considering the fact that the background SVG you choose will set the undertones of your entire project, this mistake might cost you loads in terms of consistent design. Much like a painter giving their canvas a paint wash and later using that base layer to create highlights and shadows, so does prototyping with an animated background SVG make it easier for you to later decide on ideal spacing, alignment, use of negative space, contrast, etc.<br><br>Treating your SVG background image as an afterthought might save you time in the short term, but more often than not, you’ll later find yourself either compromising with an ultra-basic SVG background color or unnecessarily lengthening the iterative process. <br><br><strong>Key pointers</strong><br><br>Use a prototyping tool like Figma, Penpot, or Protopie to conceptualize your design process starting with the background design SVG. Instead of hitting that first creative block when staring at a stark white drawing board, you can build on top of an already contoured backdrop. <br><br>While some prototyping tools don’t support animated SVG at the moment, there are workarounds that can help you through the process, like using a GIF of the same design as a placeholder. You can also preview your design using website builders, like <a href="https://www.svgator.com/blog/how-to-add-svg-animations-to-squarespace/">Squarespace</a>, Wix or <a href="https://www.warmdevs.com/">Webflow</a>. Whatever tool you end up using, your visual storytelling will unfold much more smoothly with a background SVG in place.</p><!--kg-card-begin: html--><object type="image/png" data="./main_files/background-animation-css-svg.png" alt="Animated SVG files are supported on all types of devices" img="" width="100%">
+<img src="./main_files/background-animation-css-svg.png" alt="Animated SVG files are supported on all types of devices" class="lightense-target">
+</object>
+<figcaption>By SVGator</figcaption><!--kg-card-end: html--><h3 id="not-using-your-background-svg-to-its-fullest-potential">Not using your background SVG to its fullest potential <br></h3><p>Let’s look at this fault objectively, and see what default advantages come with using SVG backgrounds:</p><p>- Small file size (even for an animated SVG background)? ☑️Check. <br>- Addressed visual hierarchy and accessibility concerns? ☑️Check. <br>- Optimal performance thanks to quick load times? ☑️Check. <br>- Makes for a cohesive iteration process from the very beginning? ☑️Check. <br><br><strong>So, what else can a background SVG bring to the table?</strong><br><br>You can make your animated SVG background as plain or as intricate as you’d like without having to worry about adding extra seconds to a page or mobile app’s loading time. <br><br>It is so versatile! You can make it part of your branding efforts, use it to hop on user interface design trends, make a landing page’s above-the-fold section look like an immersive portal – and do all this with responsive design in tow by default! </p><p>We’ve gathered a small collection of awesome animated SVG backgrounds to get the creative ball rolling:<br><br><strong>Cute Animated Pattern</strong> - By <a href="https://dribbble.com/imargarita">Margarita Ivanchikova</a><br><br>Animated background SVG patterns don’t need uniform repetition to work as intended. Subtle animation effects on geometric flat art, even with varying easing, make for a very cute pattern. </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/SVG-background-animation.gif" class="kg-image lightense-target" alt="Cute animated background made by Margarita Ivanchikova" loading="lazy" width="1600" height="1200"><figcaption>By <a href="https://dribbble.com/imargarita">Margarita Ivanchikova</a></figcaption></figure><p><br><br><strong>Circles Rolling in Colors</strong> - By <a href="https://dribbble.com/illotv">ILLO</a><br><br>With SVG optimization, an intensely catchy and memorable animated SVG background like this can be very quick to load. Maximum engagement potential, without any (page) speed bumps in the way!</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/svg-background-colors.gif" class="kg-image lightense-target" alt="Animated background with circles rolling in colors made by ILLO" loading="lazy" width="1400" height="787"><figcaption>By <a href="https://dribbble.com/illotv">ILLO</a></figcaption></figure><p><br><strong>Tile Animated Pattern</strong> - By <a href="https://dribbble.com/domaso">Domaso</a><br><br>A tile-based animated SVG background that makes us think of the back-in-trend Bauhaus-style – complete with ultra-smooth transitions and room to customize with any brand’s colors. </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/svg-background-pattern-example-inspiration.gif" class="kg-image lightense-target" alt="Animated background with a tile pattern made by Domaso" loading="lazy" width="1000" height="750"><figcaption>By <a href="https://dribbble.com/domaso">Domaso</a></figcaption></figure><p><br><strong>Geometric City</strong> - <a href="https://dribbble.com/illotv">ILLO</a><br><br>Giving dimension to apparently flat elements is how illustrator <a href="https://dribbble.com/rawcedine">Cristina Pasquale</a> and animator <a href="https://dribbble.com/davecubitt/about">Dave Cubitt</a> describe this high-energy animation. A perfect example of setting the tone of a page even before a single headline is written! </p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/SVG-background-animated.gif" class="kg-image lightense-target" alt="Animated background with gemotric shapes forming a city made by ILLO" loading="lazy" width="800" height="600"><figcaption>By <a href="https://dribbble.com/illotv">ILLO</a></figcaption></figure><p><br><strong>Geometric Animation</strong> - By <a href="https://dribbble.com/alekseivasileika">Aleksei Vasileika</a><br><br>Isometric elements in an animated SVG background will never not be impressive! You can create them with isometric geometric shapes and get stunning results.</p><!--kg-card-begin: html--><figure class="kg-width-wide">
+<video controls="" width="100%">
+    <source type="video/mp4" src="https://cdn.dribbble.com/users/707385/screenshots/16254702/media/522876ea81408d4ceb5c596e53ba251b.mp4" autoplay="" loop="">
+</video>
+</figure>
+<figcaption>By <a href="https://dribbble.com/alekseivasileika" target="_blank"> Aleksei Vasileika </a></figcaption><!--kg-card-end: html--><p><br><strong>Connection</strong> - By <a href="https://dribbble.com/illotv">ILLO</a><br><br>Want to use an SVG background to jump on <a href="https://www.svgator.com/blog/graphic-design-trends-prediction/">graphic design trends</a>? Nothing easier! Animated self-drawing thin lines can make any background feel exhilarating and set the mood for some very upbeat content.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="./main_files/background-svg-patterns.gif" class="kg-image lightense-target" alt="Animated background with moving lines made by ILLO" loading="lazy" width="1600" height="1200"><figcaption>By <a href="https://dribbble.com/illotv">ILLO</a></figcaption></figure><p><strong>Animated Particle Effect</strong> - By SVGator<br><br>Using only four paths, we created this animated SVG background with a particle bokeh-ish effect with a petite file size of only 8KB. Made from start to finish in SVGator’s intuitive interface! </p><!--kg-card-begin: html--><iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="./main_files/saved_resource.html" allowtransparency="true" allowfullscreen="true" frameborder="0" height="980" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe> <script async="" src="./main_files/embed.js.download"></script><!--kg-card-end: html--><p><br><strong>Shooting Star</strong> - By <a href="https://codepen.io/YusukeNakaya">Yusuke Nakaya</a><br><br>Shooting for the stars with your next design project? Put the light show directly into your SVG background!</p><!--kg-card-begin: html--><iframe height="619.3333435058594" style="width: 100%;" scrolling="no" title="astronaut-150 speed 12 fps V4" src="./main_files/XyOaBj.html" loading="lazy" fetchpriority="low" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/YusukeNakaya/pen/XyOaBj">
+  astronaut-150 speed 12 fps V4</a> by Yusuke Nakaya (<a href="https://codepen.io/YusukeNakaya">Yusuke Nakaya</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<figcaption>By <a href="https://codepen.io/YusukeNakaya" target="_blank"> Yusuke Nakaya</a></figcaption><!--kg-card-end: html--><p><br><strong>Ambient Background</strong> - By <a href="https://codepen.io/mimikos">Dimitra Vasilopoulou</a><br><br>Nothing says “come in and stay a while” like a chill animated ambient background. Just the right message you’d want to convey to a website visitor!</p><!--kg-card-begin: html--><iframe height="619.3333435058594" style="width: 100%;" scrolling="no" title="astronaut-150 speed 12 fps V4" src="./main_files/wKqyqY.html" loading="lazy" fetchpriority="low" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/mimikos/pen/wKqyqY">
+  astronaut-150 speed 12 fps V4</a> by Yusuke Nakaya (<a href="https://codepen.io/mimikos">Dimitra Vasilopoulou</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<figcaption>By <a href="https://codepen.io/mimikos" target="_blank"> Dimitra Vasilopoulou</a></figcaption><!--kg-card-end: html--><p><strong>Infinite SVG Triangle Fusion</strong> - By <a href="https://codepen.io/robdimarzo">Rob DiMarzo</a><br><br>We couldn’t look away from this hypnotic SVG background! Precisely the energy you’re looking for when adding elements of interest to your design project. </p><!--kg-card-begin: html--><iframe height="619.3333435058594" style="width: 100%;" scrolling="no" title="astronaut-150 speed 12 fps V4" src="./main_files/VqjvqR.html" loading="lazy" fetchpriority="low" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/robdimarzo/pen/VqjvqR">
+  astronaut-150 speed 12 fps V4</a> by Yusuke Nakaya (<a href="https://codepen.io/robdimarzo">Rob DiMarzo</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<figcaption>By <a href="https://codepen.io/robdimarzo" target="_blank"> Rob DiMarzo</a></figcaption><!--kg-card-end: html--><div class="kg-card kg-button-card kg-align-center"><a href="https://app.svgator.com/auth/register#/" class="kg-btn kg-btn-accent">Create mesmerizing SVG Backgrounds today! 🔮</a></div><h2 id="final-thoughts">Final Thoughts</h2><p>There's a lot more to an SVG background than its small file size and ease of loading; you can take yours to entirely new heights with just a few tweaks that will ultimately elevate your entire design project. Want to try your hand at drawing and animating your best background SVG yet? Hop onto your SVGator account <a href="https://app.svgator.com/auth/login#/">here</a> and make it happen!</p>
+		<div class="post-share-section">
+	<div class="post-share-wrap">
+		<a href="https://twitter.com/intent/tweet?text=SVG%20Background%3A%205%20Mistakes%20to%20Avoid%20and%20a%20Few%20Useful%20Pointers&amp;url=https://www.svgator.com/blog/svg-background-mistakes-to-avoid/" target="_blank" rel="noopener" aria-label="Twitter share icon"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"></path></svg></a>
+		<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.svgator.com/blog/svg-background-mistakes-to-avoid/" target="_blank" rel="noopener" aria-label="Facebook share icon"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.9981 11.9991C23.9981 5.37216 18.626 0 11.9991 0C5.37216 0 0 5.37216 0 11.9991C0 17.9882 4.38789 22.9522 10.1242 23.8524V15.4676H7.07758V11.9991H10.1242V9.35553C10.1242 6.34826 11.9156 4.68714 14.6564 4.68714C15.9692 4.68714 17.3424 4.92149 17.3424 4.92149V7.87439H15.8294C14.3388 7.87439 13.8739 8.79933 13.8739 9.74824V11.9991H17.2018L16.6698 15.4676H13.8739V23.8524C19.6103 22.9522 23.9981 17.9882 23.9981 11.9991Z"></path></svg></a>
+		<a class="post-share-link" id="copy" data-clipboard-target="#copy-link" aria-label="Copy link icon"><svg role="img" viewBox="0 0 33 24" xmlns="http://www.w3.org/2000/svg"><path d="M27.3999996,13.4004128 L21.7999996,13.4004128 L21.7999996,19 L18.9999996,19 L18.9999996,13.4004128 L13.3999996,13.4004128 L13.3999996,10.6006192 L18.9999996,10.6006192 L18.9999996,5 L21.7999996,5 L21.7999996,10.6006192 L27.3999996,10.6006192 L27.3999996,13.4004128 Z M12,20.87 C7.101,20.87 3.13,16.898 3.13,12 C3.13,7.102 7.101,3.13 12,3.13 C12.091,3.13 12.181,3.139 12.272,3.142 C9.866,5.336 8.347,8.487 8.347,12 C8.347,15.512 9.866,18.662 12.271,20.857 C12.18,20.859 12.091,20.87 12,20.87 Z M20.347,0 C18.882,0 17.484,0.276 16.186,0.756 C14.882,0.271 13.473,0 12,0 C5.372,0 0,5.373 0,12 C0,18.628 5.372,24 12,24 C13.471,24 14.878,23.726 16.181,23.242 C17.481,23.724 18.88,24 20.347,24 C26.975,24 32.347,18.628 32.347,12 C32.347,5.373 26.975,0 20.347,0 Z"></path></svg></a>
+		<small class="share-link-info">The link has been copied!</small>
+	</div>
+	<input type="text" value="https://www.svgator.com/blog/svg-background-mistakes-to-avoid/" id="copy-link" aria-label="Copy link input">
+</div>	</div>
+</article>
+<aside class="nextprev-section">
+	<div class="nextprev-wrap">
+		<section class="nextprev-newer post tag-how-to">
+			<a href="https://www.svgator.com/blog/how-to-create-an-animated-cat/" class="global-link" aria-label="The purrfect guide for creating an animated cat"></a>
+			<a href="https://www.svgator.com/blog/how-to-create-an-animated-cat/" class="nextprev-image global-image">
+				<img src="./main_files/cute-animated-cat-tutorial.gif" loading="lazy" alt="The purrfect guide for creating an animated cat">			</a>
+			<div>
+				<small>Newer post</small>
+				<h3><a href="https://www.svgator.com/blog/how-to-create-an-animated-cat/">The purrfect guide for creating an animated cat</a></h3>
+			</div>
+		</section>
+		<section class="nextprev-older post tag-resources">
+			<a href="https://www.svgator.com/blog/neumorphism-origin-influence-design/" class="global-link" aria-label="Neumorphism: Its Origin Story 
+&amp; Influence on the UI Design World"></a>
+			<div>
+				<small>Older post</small>
+				<h3><a href="https://www.svgator.com/blog/neumorphism-origin-influence-design/">Neumorphism: Its Origin Story 
+&amp; Influence on the UI Design World</a></h3>
+			</div>
+			<a href="https://www.svgator.com/blog/neumorphism-origin-influence-design/" class="nextprev-image global-image">
+				<img src="./main_files/neumorphism-design-example.svg" loading="lazy" alt="Neumorphism: Its Origin Story 
+&amp; Influence on the UI Design World">			</a>
+		</section>
+	</div>
+</aside><div class="global-sections global-sections-items-4">
+	<h2 class="global-label global-zigzag">
+	See more
+	<svg role="img" viewBox="0 0 136 24" xmlns="http://www.w3.org/2000/svg"><path d="M1.525 1.525a3.5 3.5 0 014.95 0L20 15.05 33.525 1.525a3.5 3.5 0 014.95 0L52 15.05 65.525 1.525a3.5 3.5 0 014.95 0L84 15.05 97.525 1.525a3.5 3.5 0 014.95 0L116 15.05l13.525-13.525a3.5 3.5 0 014.95 4.95l-16 16a3.5 3.5 0 01-4.95 0L100 8.95 86.475 22.475a3.5 3.5 0 01-4.95 0L68 8.95 54.475 22.475a3.5 3.5 0 01-4.95 0L36 8.95 22.475 22.475a3.5 3.5 0 01-4.95 0l-16-16a3.5 3.5 0 010-4.95z"></path></svg></h2>
+<article class="item-section post tag-resources">
+	<a href="https://www.svgator.com/blog/what-are-keyframe-animations/" class="global-link" aria-label="Learn About Keyframes in Animation: A Quick Guide"></a>
+	<div class="global-image">
+		<img srcset="https://cdn.svgator.com/images/2023/08/what-is-keyframe-animation-guide.svg 300w,
+			 https://cdn.svgator.com/images/2023/08/what-is-keyframe-animation-guide.svg 400w,
+			 https://cdn.svgator.com/images/2023/08/what-is-keyframe-animation-guide.svg 600w" sizes="(max-width:480px) 150px, 200px" src="./main_files/what-is-keyframe-animation-guide.svg" loading="lazy" alt="Learn About Keyframes in Animation: A Quick Guide">	</div>
+	<div class="global-sections-content">
+		<h3><a href="https://www.svgator.com/blog/what-are-keyframe-animations/">Learn About Keyframes in Animation: A Quick Guide</a></h3>
+		<div class="global-sections-meta global-meta global-pointer">
+			<a href="https://www.svgator.com/blog/author/svgator/">SVGator</a>
+		</div>
+	</div>
+</article>
+	<article class="item-section post tag-resources">
+	<a href="https://www.svgator.com/blog/what-is-svg-interactivity/" class="global-link" aria-label="What You Should Know About SVG Interactivity"></a>
+	<div class="global-image">
+		<img srcset="https://cdn.svgator.com/images/2023/08/svg-interactivity.svg 300w,
+			 https://cdn.svgator.com/images/2023/08/svg-interactivity.svg 400w,
+			 https://cdn.svgator.com/images/2023/08/svg-interactivity.svg 600w" sizes="(max-width:480px) 150px, 200px" src="./main_files/svg-interactivity.svg" loading="lazy" alt="What You Should Know About SVG Interactivity">	</div>
+	<div class="global-sections-content">
+		<h3><a href="https://www.svgator.com/blog/what-is-svg-interactivity/">What You Should Know About SVG Interactivity</a></h3>
+		<div class="global-sections-meta global-meta global-pointer">
+			<a href="https://www.svgator.com/blog/author/svgator/">SVGator</a>
+		</div>
+	</div>
+</article>
+	<article class="item-section post tag-resources">
+	<a href="https://www.svgator.com/blog/animated-gif-best-practices-to-optimize-gifs-like-pros/" class="global-link" aria-label="Animated GIF Best Practices for GIF Optimization"></a>
+	<div class="global-image">
+		<img srcset="https://cdn.svgator.com/images/2022/11/Animated-GIF-best-practices.gif 300w,
+			 https://cdn.svgator.com/images/2022/11/Animated-GIF-best-practices.gif 400w,
+			 https://cdn.svgator.com/images/2022/11/Animated-GIF-best-practices.gif 600w" sizes="(max-width:480px) 150px, 200px" src="./main_files/Animated-GIF-best-practices.gif" loading="lazy" alt="Animated GIF Best Practices for GIF Optimization">	</div>
+	<div class="global-sections-content">
+		<h3><a href="https://www.svgator.com/blog/animated-gif-best-practices-to-optimize-gifs-like-pros/">Animated GIF Best Practices for GIF Optimization</a></h3>
+		<div class="global-sections-meta global-meta global-pointer">
+			<a href="https://www.svgator.com/blog/author/svgator/">SVGator</a>
+		</div>
+	</div>
+</article>
+	<article class="item-section post tag-resources">
+	<a href="https://www.svgator.com/blog/reasons-to-use-animated-logo/" class="global-link" aria-label="Benefits of Logo Animation | 
+Static vs Animated Logo"></a>
+	<div class="global-image">
+		<img srcset="https://cdn.svgator.com/images/2023/05/logo-animation-benefits-static-vs-animated.svg 300w,
+			 https://cdn.svgator.com/images/2023/05/logo-animation-benefits-static-vs-animated.svg 400w,
+			 https://cdn.svgator.com/images/2023/05/logo-animation-benefits-static-vs-animated.svg 600w" sizes="(max-width:480px) 150px, 200px" src="./main_files/logo-animation-benefits-static-vs-animated.svg" loading="lazy" alt="Benefits of Logo Animation | 
+Static vs Animated Logo">	</div>
+	<div class="global-sections-content">
+		<h3><a href="https://www.svgator.com/blog/reasons-to-use-animated-logo/">Benefits of Logo Animation | 
+Static vs Animated Logo</a></h3>
+		<div class="global-sections-meta global-meta global-pointer">
+			<a href="https://www.svgator.com/blog/author/svgator/">SVGator</a>
+		</div>
+	</div>
+</article>
+</div>
+
+				</main>
+			    <div class="subscribe-section">
+	<div class="subscribe-wrap">
+		<form data-members-form="subscribe" class="subscribe-form">
+			<input data-members-email="" type="email" placeholder="Your email address" aria-label="Your email address" required="">
+			<button class="global-button" type="submit"><svg width="24" height="18" viewBox="0 0 24 18" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 24px; height: 24px; color: rgb(255, 255, 255);"><path d="M21.75 1.5H2.25c-.828 0-1.5.672-1.5 1.5v12c0 .828.672 1.5 1.5 1.5h19.5c.828 0 1.5-.672 1.5-1.5V3c0-.828-.672-1.5-1.5-1.5zM15.687 6.975L19.5 10.5M8.313 6.975L4.5 10.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M22.88 2.014l-9.513 6.56C12.965 8.851 12.488 9 12 9s-.965-.149-1.367-.426L1.12 2.014" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>Subscribe</button>
+		</form>
+		<div class="subscribe-alert">
+			<small class="alert-loading global-alert">Processing your application</small>
+			<small class="alert-success global-alert">Please check your inbox and click the link to confirm your subscription</small>
+			<small class="alert-error global-alert">There was an error sending the email</small>
+		</div>
+	</div>
+</div>
+				<link rel="stylesheet" type="text/css" href="./main_files/footer-svgator.css">
+<footer class="svgator-footer">
+    <div class="promo-cont">
+    <div>
+        <div class="promo-text">
+            <h3>Create, animate &amp; export SVG, GIF and video</h3>
+            <a class="promo-btn" href="https://app.svgator.com/auth/register">Start for free</a>
+        </div>
+        <div class="img-cont">
+            <picture>
+                <source srcset="/blog/assets/images/promo.webp?v=2c6a4843dc" type="image/webp">
+                <source srcset="/blog/assets/images/promo.png?v=2c6a4843dc" type="image/png">
+                <img src="./main_files/promo.png" width="483" height="265" alt="User video promo">
+            </picture>
+        </div>
+    </div>
+</div>
+<style>
+    .promo-cont {
+        background: #030916;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        padding: 25px 10px;
+        width: 100%;
+    }
+    .promo-cont > div {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        gap: 5vw;
+        max-width: 100%;
+    }
+    .promo-cont img {
+        height: auto;
+        max-width: 100%;
+    }
+    .promo-cont .img-cont {
+        max-width: 100%;
+        width: 483px;
+    }
+    .promo-cont .promo-text {
+        color: #fff;
+        flex: 1;
+        font-family: 'Montserrat', sans-serif;
+        max-width: 400px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .promo-cont .promo-text h3 {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 34px;
+        margin-bottom: 34px;
+        margin-top: 0;
+        max-width: 650px;
+    }
+    .promo-cont .promo-text .promo-btn {
+        background-color: #007aff;
+        border-radius: 8px;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: 600;
+        min-width: 140px;
+        padding: 17px 14px 13px;
+        text-align: center;
+        text-transform: none;
+    }
+    @media (min-width: 768px) {
+        .promo-cont {
+            height: 320px;
+        }
+        .promo-cont > div {
+            flex-direction: row-reverse;
+            width: 960px;
+        }
+        .promo-cont .img-cont {
+            max-width: 50vw;
+        }
+        .promo-cont .promo-text {
+            max-width: unset;
+            text-align: left;
+        }
+    }
+</style>    <div class="svgator-container svgator-discover">
+        <div class="svgator-inner">
+            <div class="svgator-header">Discover</div>
+            <ul>
+                <li><a href="https://www.svgator.com/svg-animation-tool">SVG animation tool</a></li>
+                <li><a href="https://www.svgator.com/svg-morph-animation">Morph animation</a></li>
+                <li><a href="https://www.svgator.com/interactive-svg-animation">Interactive SVG</a></li>
+                <li><a href="https://www.svgator.com/css-loader">CSS loader</a></li>
+                <li><a href="https://www.svgator.com/create-svg">Create SVG</a></li>
+                <li><a href="https://www.svgator.com/animate-svg-along-path">Move on path</a></li>
+                <li><a href="https://www.svgator.com/create-animated-svg-icons">Icon animation</a></li>
+                <li><a href="https://www.svgator.com/ecommerce-website-design-animation">Ecommerce animations</a></li>
+                <li><a href="https://www.svgator.com/vector-animation-software">Vector animation</a></li>
+                <li><a href="https://www.svgator.com/svg-path-animation">Path animation</a></li>
+                <li><a href="https://www.svgator.com/svg-logo-animation-maker">Logo animation</a></li>
+                <li><a href="https://www.svgator.com/mobile-app-animation-creator">Mobile export</a></li>
+                <li><a href="https://www.svgator.com/create-flutter-animation">Flutter animation</a></li>
+                <li><a href="https://www.svgator.com/create-react-native-animation">React Native animation</a></li>
+                <li><a href="https://www.svgator.com/svg-to-video">Video export</a></li>
+                <li><a href="https://www.svgator.com/svg-to-gif">GIF export</a></li>
+                <li><a href="https://www.svgator.com/web-animation-software">Web animation</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="svgator-container svgator-otherPages">
+        <div class="svgator-inner">
+            <div>
+                <div class="svgator-header svgator-headerLogo">
+                    <a aria-current="page" aria-label="Svgator" href="https://www.svgator.com/">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103.39 18.92"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><circle cx="13.14" cy="10.12" r="2.02" style="fill:#ddf5ff"></circle><path d="M13.82,15.18a2.13,2.13,0,0,0-2.75,1.24v0a.38.38,0,0,1-.48.24h0a6.81,6.81,0,0,1-2-1.17.38.38,0,0,1,0-.53h0a2.13,2.13,0,0,0-1.48-3.56,6.65,6.65,0,0,1-4.33.14A7.82,7.82,0,0,0,4.1,13.85c3.88,4.57,5.76,5.41,11,2.74a.39.39,0,0,1-.05-.09A2.13,2.13,0,0,0,13.82,15.18Z" style="fill:#ddf5ff"></path><path d="M22.68,3.46c-1.63-2-10.48-1.69-12-1.4A6.64,6.64,0,0,1,11.3,4a2.12,2.12,0,0,0,3.4.61,2.14,2.14,0,0,0,.52-.82.38.38,0,0,1,.48-.24h0a6.8,6.8,0,0,1,2,1.17.38.38,0,0,1,0,.53h0a2.13,2.13,0,0,0,1.95,3.54.38.38,0,0,1,.46.27v0a7,7,0,0,1,0,2.17.37.37,0,0,1-.44.3h0A2.13,2.13,0,0,0,17.6,15C21.33,11.94,24.26,5.32,22.68,3.46Z" style="fill:#ddf5ff"></path><path d="M73.83,4.47V15H71.5V13.61A3.8,3.8,0,0,1,70,14.73a5.09,5.09,0,0,1-2,.37,5.57,5.57,0,0,1-2.74-.67,4.75,4.75,0,0,1-1.87-1.87,6.23,6.23,0,0,1,0-5.65A4.78,4.78,0,0,1,65.28,5,5.6,5.6,0,0,1,68,4.38a4.86,4.86,0,0,1,1.87.35,4.13,4.13,0,0,1,1.49,1V5.25a.75.75,0,0,1,.75-.75h0Zm-3.3,7.63a3.64,3.64,0,0,0,0-4.76,3.21,3.21,0,0,0-4.47,0,3.67,3.67,0,0,0,0,4.76,3,3,0,0,0,2.23.91,3,3,0,0,0,2.24-.9Z" style="fill:#ddf5ff"></path><path d="M83,14.4a2.9,2.9,0,0,1-1.06.53,4.75,4.75,0,0,1-1.31.18,3.71,3.71,0,0,1-2.68-.91A3.48,3.48,0,0,1,77,11.56V2.15H78.7a.75.75,0,0,1,.75.75h0V4.54h2.8v2h-2.8v5a1.63,1.63,0,0,0,.38,1.17,1.4,1.4,0,0,0,1.07.4,2.74,2.74,0,0,0,.47,0,1.19,1.19,0,0,1,1.35.71Z" style="fill:#ddf5ff"></path><path d="M86.48,14.41a5,5,0,0,1-2-1.91,5.74,5.74,0,0,1,0-5.55,5,5,0,0,1,2-1.91,6.37,6.37,0,0,1,5.76,0,5,5,0,0,1,2,1.91,5.74,5.74,0,0,1,0,5.55,5,5,0,0,1-2,1.91A6.37,6.37,0,0,1,86.48,14.41Zm5.11-2.34a3.64,3.64,0,0,0,0-4.76,3.21,3.21,0,0,0-4.47,0,3.67,3.67,0,0,0,0,4.76,3,3,0,0,0,2.23.91,3,3,0,0,0,2.24-.89Z" style="fill:#ddf5ff"></path><path d="M103.39,4.35V6.68a3.13,3.13,0,0,0-.57-.06,3,3,0,0,0-2.23.83,3.33,3.33,0,0,0-.81,2.41V15H97.32V4.47h1.59a.75.75,0,0,1,.75.75h0V6A4.08,4.08,0,0,1,103.39,4.35Z" style="fill:#ddf5ff"></path><path d="M9.12,6.47,8.34,6A.71.71,0,0,1,8,5.38V5a.71.71,0,0,1,.35-.62l.78-.47a.71.71,0,0,0,.26-1h0L9,2.27A.71.71,0,0,0,8,2H8l-.79.47a.71.71,0,0,1-.71,0l-.36-.21a.71.71,0,0,1-.35-.62V.71A.71.71,0,0,0,5.1,0H4.36a.71.71,0,0,0-.71.71v1a.71.71,0,0,1-.35.62l-.36.21a.71.71,0,0,1-.71,0L1.44,2a.71.71,0,0,0-1,.26h0L.1,2.92a.71.71,0,0,0,.26,1h0l.78.47A.71.71,0,0,1,1.48,5V5.4A.71.71,0,0,1,1.13,6l-.78.47a.71.71,0,0,0-.26,1h0l.37.64a.71.71,0,0,0,1,.26h0l.78-.47a.71.71,0,0,1,.71,0l.36.21a.71.71,0,0,1,.35.62v.81a.71.71,0,0,0,.71.71H5.1a.71.71,0,0,0,.71-.71h0V8.71a.71.71,0,0,1,.35-.62l.36-.21a.71.71,0,0,1,.71,0L8,8.36A.71.71,0,0,0,9,8.1H9l.37-.64a.71.71,0,0,0-.24-1Zm-4.39.2A1.51,1.51,0,1,1,6.23,5.16h0A1.51,1.51,0,0,1,4.72,6.66h0Z" style="fill:#3cfffc"></path><path d="M29.27,14.77a6.28,6.28,0,0,1-1.95-.85l.43-.85a1.11,1.11,0,0,1,1.4-.53,7.19,7.19,0,0,0,.79.28,7.06,7.06,0,0,0,2,.28q2.2,0,2.2-1.16a.78.78,0,0,0-.56-.77,9.7,9.7,0,0,0-1.8-.41,14.53,14.53,0,0,1-2.12-.47,3.24,3.24,0,0,1-1.4-.9,2.5,2.5,0,0,1-.6-1.78,2.8,2.8,0,0,1,1.25-2.39,5.68,5.68,0,0,1,3.37-.9,9.74,9.74,0,0,1,2.16.25,6.07,6.07,0,0,1,1.78.68l-.47.9a1.11,1.11,0,0,1-1.37.55,6.07,6.07,0,0,0-2.13-.37,3.33,3.33,0,0,0-1.64.33,1,1,0,0,0-.56.85.85.85,0,0,0,.6.84,9.45,9.45,0,0,0,1.87.47,14.36,14.36,0,0,1,2.06.47,3.23,3.23,0,0,1,1.4.86,2.41,2.41,0,0,1,.58,1.73,2.74,2.74,0,0,1-1.28,2.36,6,6,0,0,1-3.48.89A9.41,9.41,0,0,1,29.27,14.77Z" style="fill:#3cfffc"></path><path d="M60.35,4.47v8.91q0,5.54-5.66,5.54a10.52,10.52,0,0,1-2.87-.38,6.1,6.1,0,0,1-2.24-1.11l.71-1.19a.73.73,0,0,1,1-.24h0a6,6,0,0,0,1.13.5,6.84,6.84,0,0,0,2.13.35,3.53,3.53,0,0,0,2.54-.78,3.22,3.22,0,0,0,.81-2.4V13.1a4,4,0,0,1-1.53,1,5.41,5.41,0,0,1-2,.35,5.69,5.69,0,0,1-2.7-.64,4.8,4.8,0,0,1-1.91-1.8,5,5,0,0,1-.7-2.65,5,5,0,0,1,.7-2.64A4.75,4.75,0,0,1,51.67,5a5.77,5.77,0,0,1,2.7-.63,5.54,5.54,0,0,1,2.07.37A3.82,3.82,0,0,1,58,5.87V5.22a.75.75,0,0,1,.75-.75h1.58ZM57,11.57a2.83,2.83,0,0,0,.9-2.17A2.8,2.8,0,0,0,57,7.26a3.62,3.62,0,0,0-4.6,0,2.8,2.8,0,0,0-.89,2.14,2.83,2.83,0,0,0,.89,2.17A3.59,3.59,0,0,0,57,11.57Z" style="fill:#3cfffc"></path><path d="M47.14,4.47A1.23,1.23,0,0,0,46,5.21l-.2.47L41.8,15h1.32a1.63,1.63,0,0,0,1.49-1l4.08-9.52Z" style="fill:#3cfffc"></path><path d="M42.43,10.8,40,5.22a1.23,1.23,0,0,0-1.14-.76H37.13l4.08,9.17Z" style="fill:#3cfffc"></path></g></g></svg>
+                    </a>
+                </div>
+                <ul>
+                    <li><a href="https://www.svgator.com/about-us">About us</a></li>
+                    <li><a href="https://www.svgator.com/pricing">Pricing</a></li>
+                    <li><a href="https://www.svgator.com/testimonials">Testimonials</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="svgator-header">Resources</div>
+                <ul>
+                    <li><a href="https://www.svgator.com/resources/20-reasons-use-svg-animations">Free eBook</a></li>
+                    <li><a href="https://www.svgator.com/blog">Blog</a></li>
+                </ul>
+            </div>
+            <div class="svgator-supportDiv">
+                <div class="svgator-header">Support</div>
+                <ul>
+                    <li><a href="https://www.svgator.com/help">Help Center</a></li>
+                    <li><a href="https://www.svgator.com/tutorials">Tutorials</a></li>
+                    <li><a href="https://www.svgator.com/contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="svgator-socialDiv">
+                <ul class="svgator-socia-list">
+                    <li>
+                        <a href="https://www.facebook.com/svgator/" aria-label="Facebook" rel="noopener" target="_blank">
+                            <svg id="e0s15cydyhr11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 42" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><path id="e0s15cydyhr12" d="M20.250000,18.380000L20.250000,13.880000C20.250000,12.637359,21.257359,11.630000,22.500000,11.630000L24.750000,11.630000L24.750000,6L20.250000,6C16.522078,6,13.500000,9.022078,13.500000,12.750000L13.500000,18.380000L9,18.380000L9,24L13.500000,24L13.500000,42L20.250000,42L20.250000,24L24.750000,24L27,18.380000Z" fill="currentColor" stroke="none" stroke-width="1"></path>
+</svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/svgatorapp/" aria-label="Instagram" rel="noopener" target="_blank">
+                            <svg id="el4esl6v8dc1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 42" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><g id="el4esl6v8dc2"><path id="el4esl6v8dc3" d="M35.870000,16.600000C35.829954,15.107778,35.535737,13.633311,35,12.240000C34.069648,9.840007,32.176417,7.939523,29.780000,7C28.384734,6.475074,26.910420,6.191032,25.420000,6.160000C23.500000,6.060000,22.890000,6,18,6C13.110000,6,12.510000,6,10.600000,6.110000C9.106614,6.156436,7.632110,6.457425,6.240000,7C5.043470,7.443821,3.958219,8.143433,3.060000,9.050000C2.151817,9.948856,1.449046,11.033715,1,12.230000C0.475074,13.625266,0.191032,15.099580,0.160000,16.590000C0.060000,18.510000,0,19.130000,0,24C0,28.870000,0,29.490000,0.110000,31.400000C0.155302,32.896760,0.456310,34.374742,1,35.770000C1.937200,38.170208,3.838006,40.067386,6.240000,41C7.635266,41.524926,9.109580,41.808968,10.600000,41.840000C12.520000,41.920000,13.130000,41.950000,18,41.950000C22.870000,41.950000,23.490000,41.950000,25.400000,41.840000C26.890482,41.809550,28.364893,41.525489,29.760000,41C32.162681,40.068442,34.063854,38.170898,35,35.770000C35.524739,34.374681,35.808775,32.900400,35.840000,31.410000C35.920000,29.490000,35.950000,28.880000,35.950000,24.010000C35.950000,19.140000,36,18.510000,35.870000,16.600000ZM32.630000,31.270000C32.613969,32.408062,32.400815,33.534735,32,34.600000C31.392468,36.155761,30.163965,37.387888,28.610000,38C27.543967,38.396819,26.417414,38.606567,25.280000,38.620000C23.380000,38.700000,22.820000,38.730000,18.020000,38.730000C13.220000,38.730000,12.650000,38.730000,10.760000,38.620000C9.619142,38.608527,8.488971,38.398735,7.420000,38C6.641521,37.713492,5.937472,37.255518,5.360000,36.660000C4.760062,36.086136,4.295479,35.385846,4,34.610000C3.603181,33.543967,3.393433,32.417414,3.380000,31.280000C3.300000,29.380000,3.270000,28.820000,3.270000,24.020000C3.270000,19.220000,3.270000,18.650000,3.380000,16.760000C3.392629,15.622507,3.602403,14.495818,4,13.430000C4.287232,12.649476,4.748978,11.944885,5.350000,11.370000C5.931259,10.762454,6.642303,10.294123,7.430000,10C8.496087,9.603375,9.622605,9.393633,10.760000,9.380000C12.660000,9.300000,13.220000,9.270000,18.020000,9.270000C22.820000,9.270000,23.390000,9.270000,25.280000,9.380000C26.417474,9.392831,27.544128,9.602598,28.610000,10C29.388633,10.286200,30.092747,10.744216,30.670000,11.340000C31.264333,11.928212,31.718866,12.642479,32,13.430000C32.396625,14.496087,32.606367,15.622605,32.620000,16.760000C32.700000,18.660000,32.730000,19.220000,32.730000,24.020000C32.730000,28.820000,32.720000,29.370000,32.630000,31.270000Z" fill="currentColor" stroke="none" stroke-width="1"></path><path id="el4esl6v8dc4" d="M18,14.770000C12.903717,14.775521,8.776322,18.910375,8.780002,24.006659C8.783682,29.102944,12.917044,33.231832,18.013330,33.229994C23.109615,33.228155,27.239997,29.096286,27.240000,24C27.240001,21.550318,26.266185,19.201115,24.533061,17.469866C22.799937,15.738618,20.449680,14.767346,18,14.770000ZM18,30C14.686292,30,12,27.313708,12,24C12,20.686292,14.686292,18,18,18C21.313708,18,24,20.686292,24,24C24,27.313708,21.313708,30,18,30Z" fill="currentColor" stroke="none" stroke-width="1"></path><path id="el4esl6v8dc5" d="M29.760000,14.410000C29.759987,15.596108,28.799424,16.558144,27.613318,16.559974C26.427212,16.561805,25.463684,15.602738,25.460010,14.416636C25.456337,13.230534,26.413905,12.265517,27.600000,12.260000C28.171946,12.257340,28.721380,12.482682,29.126748,12.886174C29.532117,13.289666,29.760006,13.838048,29.760000,14.410000Z" fill="currentColor" stroke="none" stroke-width="1"></path></g></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.twitter.com/SVGatorApp" aria-label="Twitter" rel="noopener" target="_blank">
+                            <svg id="ea9yp2pvi2dp1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 42" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><path id="ea9yp2pvi2dp2" d="M36,16.270000C34.646815,16.861916,33.215470,17.255957,31.750000,17.440000C33.298249,16.521361,34.454899,15.065762,35,13.350000C33.553503,14.209209,31.970670,14.814608,30.320000,15.140000C28.255492,12.932489,25.053620,12.206958,22.239199,13.308924C19.424777,14.410890,17.566767,17.117581,17.550000,20.140000C17.544087,20.704576,17.601105,21.268053,17.720000,21.820000C11.790532,21.540474,6.259979,18.751563,2.510000,14.150000C0.544533,17.515054,1.534180,21.828338,4.770000,24C3.603153,23.967646,2.461136,23.655563,1.440000,23.090000L1.440000,23.170000C1.443124,26.681796,3.910908,29.709111,7.350000,30.420000C6.716858,30.585785,6.064455,30.666495,5.410000,30.660000C4.937766,30.677785,4.464997,30.644255,4,30.560000C4.978193,33.562545,7.743089,35.622193,10.900000,35.700000C8.288014,37.743566,5.066417,38.852640,1.750000,38.850000C1.164926,38.850414,0.580417,38.813673,0,38.740000C3.374464,40.913457,7.306180,42.063102,11.320000,42.050000C24.900000,42.050000,32.320000,30.800000,32.320000,21.050000C32.320000,20.720000,32.320000,20.410000,32.320000,20.050000C33.764286,19.021886,35.010969,17.741325,36,16.270000Z" fill="currentColor" stroke="none" stroke-width="1"></path></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/svgator/" aria-label="Linkedin" rel="noopener" target="_blank">
+                            <svg id="ehj7mg1fylya1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 42" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><path id="ehj7mg1fylya2" d="M36,42L36,42L36,28.800000C36,22.340000,34.610000,17.370000,27.060000,17.370000C24.173423,17.260869,21.460680,18.747882,20,21.240000L19.900000,21.240000L19.900000,18L12.730000,18L12.730000,42L20.180000,42L20.180000,30.100000C20.180000,26.970000,20.770000,23.940000,24.650000,23.940000C28.530000,23.940000,28.530000,27.520000,28.530000,30.300000L28.530000,42ZM0.590000,18L8.060000,18L8.060000,42L0.590000,42ZM4.320000,6C2.561020,5.991913,0.971111,7.046344,0.294237,8.669895C-0.382636,10.293446,-0.012597,12.164998,1.231202,13.408798C2.475002,14.652597,4.346554,15.022636,5.970105,14.345763C7.593656,13.668889,8.648087,12.078980,8.640000,10.320000C8.640000,9.174265,8.184858,8.075456,7.374701,7.265299C6.564544,6.455142,5.465735,6,4.320000,6Z" fill="currentColor" stroke="none" stroke-width="1"></path></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/svgator/" aria-label="Youtube" rel="noopener" target="_blank">
+                            <svg id="e2kessfi8jrw1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 36 42" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><path id="e2kessfi8jrw2" d="M34.470000,19.690000C33.470000,17.950000,32.470000,17.630000,30.280000,17.510000C28.090000,17.390000,22.700000,17.310000,18,17.310000C13.300000,17.310000,7.870000,17.370000,5.720000,17.510000C3.570000,17.650000,2.500000,17.950000,1.520000,19.690000C0.540000,21.430000,0,24.410000,0,29.670000L0,29.670000C0,34.910000,0.520000,37.920000,1.520000,39.670000C2.520000,41.420000,3.520000,41.720000,5.720000,41.870000C7.920000,42.020000,13.300000,42.070000,18,42.070000C22.700000,42.070000,28.120000,42,30.270000,41.870000C32.420000,41.740000,33.490000,41.410000,34.460000,39.670000C35.430000,37.930000,36,34.930000,36,29.690000L36,29.690000C36,24.410000,35.490000,21.430000,34.470000,19.690000ZM13.470000,36.430000L13.470000,22.930000L24.720000,29.680000Z" fill="currentColor" stroke="none" stroke-width="1"></path></svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="svgator-container svgator-awards">
+        <div class="svgator-inner">
+            <div class="svgator-header">See what others are saying about us:</div>
+            <ul class="svgator-award-list">
+                <li class="svgator-award svgator-award-productHunt">
+                    <a href="https://www.producthunt.com/posts/svgator-2?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-svgator-2" aria-label="ProductHunt" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 73">
+    <g>
+        <rect x="0.5" y="11.88" width="249" height="53" rx="10" style="fill: #fff;stroke: #ea532a"></rect>
+        <path d="M56.44,29.05H55.06v2.33H53.72V24.9h2.82a2.24,2.24,0,0,1,1.55.5A1.92,1.92,0,0,1,58.67,27a2,2,0,0,1-.58,1.62A2.52,2.52,0,0,1,56.44,29.05Zm.63-1.35a.93.93,0,0,0,.26-.74.89.89,0,0,0-.26-.72,1.14,1.14,0,0,0-.75-.22H55.06v1.91h1.26A1.14,1.14,0,0,0,57.07,27.7Zm4.93,0a1.05,1.05,0,0,0-1,.49,1.91,1.91,0,0,0-.14.86v2.29H59.57v-4.8h1.2v.84a2.47,2.47,0,0,1,.5-.65,1.38,1.38,0,0,1,.92-.3h.17v1.28H62Zm5.08-.55a2.78,2.78,0,0,1,.61,1.8,2.74,2.74,0,0,1-.61,1.8,2.21,2.21,0,0,1-1.84.75,2.24,2.24,0,0,1-1.84-.75,2.79,2.79,0,0,1-.6-1.8,2.83,2.83,0,0,1,.6-1.8,2.21,2.21,0,0,1,1.84-.76A2.19,2.19,0,0,1,67.08,27.19Zm-1.84.3a1,1,0,0,0-.85.39,2.27,2.27,0,0,0,0,2.22,1,1,0,0,0,.85.39,1,1,0,0,0,.84-.39,2.2,2.2,0,0,0,0-2.22A1,1,0,0,0,65.24,27.49ZM73,24.91v6.47H71.73v-.67a1.73,1.73,0,0,1-.61.62,1.7,1.7,0,0,1-.85.19,1.8,1.8,0,0,1-1.42-.67,2.65,2.65,0,0,1-.57-1.75,3.06,3.06,0,0,1,.56-1.93,1.86,1.86,0,0,1,1.51-.7,1.55,1.55,0,0,1,.78.19,1.64,1.64,0,0,1,.55.53V24.91ZM69.57,29a1.85,1.85,0,0,0,.27,1.06.86.86,0,0,0,.79.4.93.93,0,0,0,.81-.4,1.76,1.76,0,0,0,.27-1,1.6,1.6,0,0,0-.44-1.26,1,1,0,0,0-.63-.23.88.88,0,0,0-.81.42A1.94,1.94,0,0,0,69.57,29Zm7.59,1.69-.09.13a.77.77,0,0,1-.17.19,1.5,1.5,0,0,1-.57.36,1.76,1.76,0,0,1-.64.1,1.42,1.42,0,0,1-1.43-.76,2.94,2.94,0,0,1-.21-1.25V26.58h1.28v2.89a1.63,1.63,0,0,0,.1.62.67.67,0,0,0,.67.36.88.88,0,0,0,.88-.52,1.87,1.87,0,0,0,.12-.74V26.58h1.27v4.8H77.16Zm6.57-2.4H82.44a1,1,0,0,0-.18-.48.76.76,0,0,0-.65-.29.87.87,0,0,0-.87.63,2.69,2.69,0,0,0-.12.89,2.41,2.41,0,0,0,.12.84.84.84,0,0,0,.85.6.73.73,0,0,0,.62-.24,1.11,1.11,0,0,0,.22-.61h1.28a2.06,2.06,0,0,1-.41,1.08,2,2,0,0,1-1.74.82,2.09,2.09,0,0,1-1.71-.68,2.8,2.8,0,0,1-.54-1.78,2.8,2.8,0,0,1,.6-1.92,2.09,2.09,0,0,1,1.66-.69,2.51,2.51,0,0,1,1.48.41A1.86,1.86,0,0,1,83.73,28.3Zm3,2.18v.94l-.59,0A1.6,1.6,0,0,1,85,31.13a.9.9,0,0,1-.21-.66V27.52H84.1v-.89h.66V25.29H86v1.34h.78v.89H86v2.53a.57.57,0,0,0,.08.37s.2.07.45.07h.25Zm7.27.9v-2.9H91.52v2.9H90.18V24.9h1.34v2.47h2.53V24.9h1.34v6.48Zm5.61-.68-.09.13a.77.77,0,0,1-.17.19,1.5,1.5,0,0,1-.57.36,1.76,1.76,0,0,1-.64.1,1.42,1.42,0,0,1-1.43-.76,2.94,2.94,0,0,1-.21-1.25V26.58h1.28v2.89a1.63,1.63,0,0,0,.1.62.67.67,0,0,0,.67.36.88.88,0,0,0,.88-.52,1.87,1.87,0,0,0,.12-.74V26.58h1.27v4.8H99.66Zm4.68-3.19a.88.88,0,0,0-.88.54,1.92,1.92,0,0,0-.12.73v2.6h-1.25V26.59h1.21v.7a2.1,2.1,0,0,1,.46-.53,1.58,1.58,0,0,1,1-.29,1.83,1.83,0,0,1,1.21.39,1.57,1.57,0,0,1,.47,1.29v3.23h-1.28V28.46a1.31,1.31,0,0,0-.1-.58A.7.7,0,0,0,104.34,27.51Zm5.43,3v.94l-.59,0a1.56,1.56,0,0,1-1.21-.31.9.9,0,0,1-.21-.66V27.52h-.67v-.89h.67V25.29H109v1.34h.77v.89H109v2.53c0,.2,0,.32.07.37s.2.07.46.07h.24ZM54.55,44.66H53l.35-1.32h1.6l.85-3.14h1.55l-.85,3.14h1.3l.83-3.14h1.55l-.83,3.14h1.57l-.35,1.32H59l-.63,2.28h1.59l-.35,1.31H58l-.84,3.13H55.59l.83-3.13H55.14l-.85,3.13H52.73l.86-3.13H52l.35-1.31h1.59Zm2.22,2.28.64-2.28h-1.3l-.61,2.28Zm9.69-4.59a1.63,1.63,0,0,0-2.52.28A3.66,3.66,0,0,0,63.69,44H61.52a5.38,5.38,0,0,1,.53-2.33A3.26,3.26,0,0,1,65.21,40a4,4,0,0,1,2.86,1,3.42,3.42,0,0,1,1.06,2.63,3.58,3.58,0,0,1-.75,2.24,7.48,7.48,0,0,1-1.61,1.44l-.89.64c-.56.39-.94.68-1.15.86a2.34,2.34,0,0,0-.52.61h5v2H61.4a5.26,5.26,0,0,1,.52-2.23,6.27,6.27,0,0,1,2.25-2.4,15.27,15.27,0,0,0,2-1.58,2.29,2.29,0,0,0,.7-1.62A1.79,1.79,0,0,0,66.46,42.35Zm13.89,4.88H77.91v4.15H75.52V39.86h5a4.11,4.11,0,0,1,2.77.89,3.47,3.47,0,0,1,1,2.76,3.55,3.55,0,0,1-1,2.88A4.57,4.57,0,0,1,80.35,47.23Zm1.13-2.39A1.7,1.7,0,0,0,82,43.52a1.55,1.55,0,0,0-.48-1.28,2.05,2.05,0,0,0-1.32-.38H77.91v3.39h2.24A2,2,0,0,0,81.48,44.84Zm8.75.07a1.86,1.86,0,0,0-1.8.88,3.41,3.41,0,0,0-.26,1.51v4.08H85.93V42.86h2.12v1.48a5.17,5.17,0,0,1,.9-1.16,2.45,2.45,0,0,1,1.63-.52h.3V45l-.38,0Zm9-1a5.28,5.28,0,0,1,0,6.4,4.7,4.7,0,0,1-6.55,0,5.32,5.32,0,0,1,0-6.4,4.65,4.65,0,0,1,6.55,0ZM96,44.47a1.77,1.77,0,0,0-1.5.69,3.94,3.94,0,0,0,0,4,2,2,0,0,0,3,0,4,4,0,0,0,0-4A1.77,1.77,0,0,0,96,44.47Zm13.7-4.59v11.5h-2.16V50.2a3.18,3.18,0,0,1-1.09,1.1,3,3,0,0,1-1.51.34,3.14,3.14,0,0,1-2.51-1.21,4.61,4.61,0,0,1-1-3.09,5.31,5.31,0,0,1,1-3.43,3.24,3.24,0,0,1,2.68-1.25,2.72,2.72,0,0,1,1.38.34,2.67,2.67,0,0,1,1,.94V39.88Zm-6,7.29a3.33,3.33,0,0,0,.47,1.88,1.56,1.56,0,0,0,1.41.72,1.65,1.65,0,0,0,1.44-.71,3.16,3.16,0,0,0,.49-1.82,2.81,2.81,0,0,0-.79-2.23,1.71,1.71,0,0,0-1.13-.41,1.56,1.56,0,0,0-1.43.74A3.45,3.45,0,0,0,103.7,47.17Zm13.49,3-.16.24a1.38,1.38,0,0,1-.3.34,2.93,2.93,0,0,1-1,.64,3.51,3.51,0,0,1-1.14.17A2.55,2.55,0,0,1,112,50.2a5.25,5.25,0,0,1-.37-2.21V42.86H114V48a2.63,2.63,0,0,0,.17,1.1,1.18,1.18,0,0,0,1.19.64,1.57,1.57,0,0,0,1.57-.92,3.44,3.44,0,0,0,.21-1.32V42.86h2.26v8.52h-2.16Zm11.68-4.26h-2.28a2.18,2.18,0,0,0-.32-.86,1.36,1.36,0,0,0-1.17-.51,1.53,1.53,0,0,0-1.54,1.12,4.77,4.77,0,0,0-.22,1.57,4.42,4.42,0,0,0,.22,1.51,1.49,1.49,0,0,0,1.5,1.06,1.33,1.33,0,0,0,1.11-.42,2.09,2.09,0,0,0,.4-1.09h2.27a3.65,3.65,0,0,1-.73,1.92,3.58,3.58,0,0,1-3.1,1.46,3.63,3.63,0,0,1-3-1.22,4.94,4.94,0,0,1-1-3.16,5,5,0,0,1,1.07-3.41,3.68,3.68,0,0,1,3-1.22,4.43,4.43,0,0,1,2.62.72A3.33,3.33,0,0,1,128.87,45.91Zm5.43,3.88v1.66l-1.06,0a2.8,2.8,0,0,1-2.15-.54,1.64,1.64,0,0,1-.38-1.18V44.52h-1.19V42.94h1.19V40.56h2.2v2.38h1.39v1.58h-1.39V49a1,1,0,0,0,.14.66,1.53,1.53,0,0,0,.81.12h.44Zm13-5.85a5.28,5.28,0,0,1,0,6.4,4.68,4.68,0,0,1-6.54,0,5.28,5.28,0,0,1,0-6.4,4.64,4.64,0,0,1,6.54,0Zm-3.28.53a1.77,1.77,0,0,0-1.5.69,3.94,3.94,0,0,0,0,4,2,2,0,0,0,3,0,3.94,3.94,0,0,0,0-4A1.77,1.77,0,0,0,144,44.47Zm9.95-4.68V41.6c-.13,0-.34,0-.63,0a.7.7,0,0,0-.61.19.73.73,0,0,0-.17.46v.72H154v1.57h-1.46v6.87h-2.22V44.51h-1.24V42.94h1.22v-.55a2.85,2.85,0,0,1,.46-1.88c.32-.51,1.1-.77,2.34-.77h.38Zm9.68,10v1.66l-1.06,0a2.8,2.8,0,0,1-2.15-.54,1.64,1.64,0,0,1-.38-1.18V44.52h-1.19V42.94H160V40.56h2.2v2.38h1.39v1.58h-1.39V49a1,1,0,0,0,.14.66,1.56,1.56,0,0,0,.81.12h.44Zm9.12-3.41v5h-2.27V46.2a2.23,2.23,0,0,0-.24-1.11,1.16,1.16,0,0,0-1.15-.6,1.59,1.59,0,0,0-1.34.59,2.7,2.7,0,0,0-.46,1.69v4.61h-2.22V39.9h2.22V44a2.75,2.75,0,0,1,1.12-1,3.26,3.26,0,0,1,1.34-.29,3.7,3.7,0,0,1,1.44.27,2.55,2.55,0,0,1,1,.84,2.13,2.13,0,0,1,.43,1A10.86,10.86,0,0,1,172.74,46.38Zm9.37,2.5a2.83,2.83,0,0,1-.79,1.53,3.86,3.86,0,0,1-3.06,1.25,4.31,4.31,0,0,1-2.87-1,4.22,4.22,0,0,1-1.24-3.41,4.73,4.73,0,0,1,1.12-3.39,3.86,3.86,0,0,1,2.91-1.18,4.5,4.5,0,0,1,1.91.4,3.4,3.4,0,0,1,1.41,1.26,4.32,4.32,0,0,1,.65,1.76,11,11,0,0,1,.07,1.68h-5.83a2.1,2.1,0,0,0,.81,1.8,1.81,1.81,0,0,0,1.1.32,1.61,1.61,0,0,0,1.12-.39,1.89,1.89,0,0,0,.42-.58Zm-2.2-2.61a2,2,0,0,0-.54-1.34,1.64,1.64,0,0,0-1.19-.46A1.51,1.51,0,0,0,177,45a2.44,2.44,0,0,0-.53,1.32Zm13.39,5.11h-5V39.86h5a6,6,0,0,1,1.79.25,3.84,3.84,0,0,1,2,1.46,5.17,5.17,0,0,1,.82,1.86,9.34,9.34,0,0,1,.22,1.91,7.62,7.62,0,0,1-.93,3.89A4.16,4.16,0,0,1,193.3,51.38Zm1.79-8.58a2.32,2.32,0,0,0-2.19-.94h-2.22v7.52h2.22a2.39,2.39,0,0,0,2.37-1.68,5.86,5.86,0,0,0,.37-2.2A5.39,5.39,0,0,0,195.09,42.8Zm4.95,1a3.64,3.64,0,0,1,3-1.12,5.36,5.36,0,0,1,2.48.55,2.12,2.12,0,0,1,1.09,2.09v3.91c0,.27,0,.6,0,1a1.22,1.22,0,0,0,.13.59.81.81,0,0,0,.33.26v.33H204.7a3,3,0,0,1-.15-.49q0-.22-.06-.51a4.89,4.89,0,0,1-1.06.85,3.26,3.26,0,0,1-1.63.41,2.81,2.81,0,0,1-1.91-.66,2.35,2.35,0,0,1-.75-1.87,2.41,2.41,0,0,1,1.21-2.27,5.31,5.31,0,0,1,2-.55l.76-.09A3.85,3.85,0,0,0,204,46a.68.68,0,0,0,.47-.63.77.77,0,0,0-.36-.73,2.33,2.33,0,0,0-1.07-.19,1.37,1.37,0,0,0-1.11.39,1.55,1.55,0,0,0-.32.78h-2.15A3.29,3.29,0,0,1,200,43.78Zm1.66,6a1.14,1.14,0,0,0,.76.25,2.3,2.3,0,0,0,1.33-.42,1.78,1.78,0,0,0,.62-1.54v-.83a2.82,2.82,0,0,1-.42.22,5,5,0,0,1-.59.15l-.5.1a3.13,3.13,0,0,0-1,.3,1,1,0,0,0-.51,1A1,1,0,0,0,201.7,49.77Zm10.38-.63,1.76-6.28h2.36l-2.92,8.37a12.06,12.06,0,0,1-1.33,3,2.54,2.54,0,0,1-2,.58h-.48l-.54,0V53h.28a3.27,3.27,0,0,0,.63,0,1.29,1.29,0,0,0,.5-.18,1.18,1.18,0,0,0,.36-.55,1.3,1.3,0,0,0,.14-.52l-3.13-8.89h2.48Z" style="fill: #ea532a"></path>
+        <g>
+            <path d="M21.33,40.74l-4,8.53c-.13.26,0,.42.42.34l3.26-.7a.23.23,0,0,1,.2,0,.25.25,0,0,1,.12.16l1.47,3c.14.33.3.39.42.14l4.26-8.94Zm12.34,0,4,8.53c.14.26,0,.42-.42.34L34,48.91a.24.24,0,0,0-.32.17l-1.47,3c-.14.33-.29.39-.43.14l-4.25-8.94Z" style="fill: #de7818"></path>
+            <path d="M26.3,45.77h0a10.42,10.42,0,0,1-6-2.75s0,0,0,0l.18-.39s0,0,0,0a10.81,10.81,0,0,0,6,2.66s0,0,0,0Z" style="fill: #b35454;fill-rule: evenodd"></path>
+            <circle cx="27.5" cy="34.86" r="10.49" style="fill: #9b9b9b"></circle>
+            <circle cx="27.5" cy="34.86" r="9.05" style="fill: #949494"></circle>
+            <circle cx="27.75" cy="35.13" r="8.75" style="fill: #b6b6b6"></circle>
+            <path d="M24.19,33.39v0h2v0a1.16,1.16,0,0,1,1.23-1.19,1,1,0,0,1,1.15,1c0,.5-.31.93-1.56,2.08l-2.67,2.51v1.44h6.43V37.58H27.18v-.11l1.39-1.28c1.5-1.34,2.05-2.17,2.05-3.11,0-1.49-1.26-2.51-3.15-2.51S24.19,31.71,24.19,33.39Z" style="fill: #efefef;fill-rule: evenodd"></path>
+            <path d="M30,27.46a7.61,7.61,0,0,1,.35,14.7A9.37,9.37,0,0,0,30,27.46Z" style="fill: #fff;fill-opacity: 0.200000002980232;fill-rule: evenodd"></path>
+            <path d="M28.7,45.77h0a10.51,10.51,0,0,0,6-2.73l0,0-.19-.39s0,0,0,0a10.82,10.82,0,0,1-6,2.64s0,0,0,0Z" style="fill: #b35454;fill-rule: evenodd"></path>
+        </g>
+    </g>
+</svg>
+                    </a>
+                </li>
+                <li class="svgator-award svgator-award-softwareSuggests">
+                    <a href="https://www.softwaresuggest.com/svgator" aria-label="SoftwareSuggest" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136 135">
+  <defs>
+    <lineargradient id="linear-gradient-ss" x1="97.17" y1="93.29" x2="126.84" y2="122.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0.25" stop-color="#ffed8c"></stop>
+      <stop offset="0.66" stop-color="#f2a12c"></stop>
+      <stop offset="1" stop-color="#94541f"></stop>
+    </lineargradient>
+    <lineargradient id="linear-gradient-ss-2" x1="1377.64" y1="93.29" x2="1407.31" y2="122.97" gradientTransform="matrix(-1, 0, 0, 1, 1416.47, 0)" xlink:href="#linear-gradient-ss"></lineargradient>
+    <lineargradient id="linear-gradient-ss-3" x1="24.3" y1="5.81" x2="111.7" y2="93.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffed8c"></stop>
+      <stop offset="0.22" stop-color="#f6b647"></stop>
+      <stop offset="0.56" stop-color="#f2a12c"></stop>
+      <stop offset="1" stop-color="#ffed8c"></stop>
+    </lineargradient>
+    <lineargradient id="linear-gradient-ss-4" x1="60.49" y1="19.1" x2="76.53" y2="19.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8c663"></stop>
+      <stop offset="0.66" stop-color="#f2a12c"></stop>
+      <stop offset="1" stop-color="#fad579"></stop>
+    </lineargradient>
+  </defs>
+  <path id="Blank" d="M66.62,133.72a131.69,131.69,0,0,1-27.48-23.49L17.38,132.09V113.94H1L20.78,94.67l-8.93-6.19V56.77l0,0c-3-13.3-3.59-25.18-3.1-38.44a.79.79,0,0,1,1-.75,17.58,17.58,0,0,0,3.66.64,5.25,5.25,0,0,0,5-3.54L19,13.43a.75.75,0,0,1,.83-.48,62.37,62.37,0,0,0,9,.65c14.38,0,29.1-4.75,37.48-12.09l1.15-1a.79.79,0,0,1,1.06,0l1.15,1c8.39,7.34,23.1,12.09,37.48,12.09a62.79,62.79,0,0,0,9-.65.75.75,0,0,1,.84.48l.52,1.22a5.37,5.37,0,0,0,5,3.54,16.6,16.6,0,0,0,3.68-.64.79.79,0,0,1,1,.75c.49,13.31-.14,25.21-3.1,38.44l0,0V88.48l-8.93,6.19L135,113.94H118.62v18.15L96.86,110.23a131.69,131.69,0,0,1-27.48,23.49C67.84,134.7,68.15,134.7,66.62,133.72Z" style="fill: #fff"></path>
+  <g id="Software_Suggest_Badge" data-name="Software Suggest Badge">
+    <path d="M118.82,114.14v18.43L95.17,108.82l10.07-24.15,30.26,29.47Zm-101.64,0v18.43l23.65-23.75L30.76,84.67.5,114.14Z" style="fill: #175b8c"></path>
+    <path d="M96.61,105.37l22.21,22.55V131L95.68,107.6Zm7.31-17.53,27.1,26.3h3L104.85,85.61Z" style="fill: url(#linear-gradient-ss)"></path>
+    <path d="M40.32,107.6,17.18,131v-3.07l22.21-22.55Zm-9.17-22L1.94,114.14H5l27.1-26.3Z" style="fill: url(#linear-gradient-ss-2)"></path>
+    <path d="M124.35,88.58,95.17,108.82V77l29.18-20.24Zm-112.7,0,29.18,20.24V77L11.65,56.75Z" style="fill: #00385b"></path>
+    <path d="M67.06,133A126.67,126.67,0,0,1,26.68,91.91C14.31,71.25,8.53,47.2,9.51,20.43l.07-2.1a16.87,16.87,0,0,0,3.84.65,6,6,0,0,0,5.78-4l.52-1.22,1.32.17a61.5,61.5,0,0,0,7.8.49c14.57,0,29.48-4.83,38-12.29L68,1.1l1.15,1c8.53,7.46,23.45,12.29,38,12.29a61.5,61.5,0,0,0,7.8-.49l1.32-.17.51,1.22a6.25,6.25,0,0,0,7.58,3.82l2-.45.07,2.1c1,26.77-4.8,50.82-17.17,71.48A126.67,126.67,0,0,1,68.94,133l-.94.61Z" style="fill: none;stroke: #175b8c;stroke-linejoin: round;stroke-width: 1.9992586528373024px"></path>
+    <path d="M124.74,20.49a7.94,7.94,0,0,1-9.56-4.84C99.06,17.74,79.19,13.22,68,3.42c-11.19,9.8-31.06,14.32-47.18,12.23a7.94,7.94,0,0,1-9.56,4.84C9.14,78.7,39.58,113.32,68,131.57,96.42,113.32,126.86,78.7,124.74,20.49Z" style="fill: #fff;stroke-miterlimit: 10;stroke-width: 1.4994439896279768px;stroke: url(#linear-gradient-ss-3)"></path>
+    <path d="M41.27,49.6a12.49,12.49,0,0,1-3.46-.79h-.16a1,1,0,0,1-.78-.94l-.63-2.37-.16-.78v-.16l.16-.16h.31l.16.47a4.82,4.82,0,0,0,.94,1.74,6.05,6.05,0,0,0,3.46,2,5.5,5.5,0,0,0,3.15-.78,3,3,0,0,0,1.58-2,2.8,2.8,0,0,0-1.58-3.31l-2.83-1.26A11.59,11.59,0,0,1,38.6,40a3.94,3.94,0,0,1-1.73-1.89,4.6,4.6,0,0,1-.32-2.05,4.3,4.3,0,0,1,2.83-3.78A6.49,6.49,0,0,1,44,32.12l.94.31h.79l.16-.16.31.16v.32l.31,2.2.16.95v.15l-.16.16h-.31L46,35.74a4.36,4.36,0,0,0-1.57-2.21,7,7,0,0,0-2.52-.94,3.14,3.14,0,0,0-2.36.31A2.43,2.43,0,0,0,38,34.79a2.53,2.53,0,0,0,.63,2.37,2.76,2.76,0,0,0,1.26,1.1L43,39.36a6.35,6.35,0,0,1,2.68,1.58,3.21,3.21,0,0,1,1.41,2.52,4.84,4.84,0,0,1-1.88,4.88,7,7,0,0,1-3,1.1ZM70.54,38.73l-.15.79-.32.63a.83.83,0,0,1-1.42.16l-.31-.79-1.42-4.41h1.26l.63,2,.63,2.52.16.15.16-.15.63-1.74v-.15l-.79-2.52V35h1.1l.16.16.63,2.2.63,2.37.15.15h.16v-.31C73,38,73.49,36.48,74,35h.32L74,36.05l-1.1,3.47-.31.63a.77.77,0,0,1-1.42,0l-.47-.95-.16-.63Zm16.84,1.73H86l-1.25-2.67.47-.16c.47,0,.63-.32.78-.79l-.15-.79c0-.31-.32-.47-.79-.63h-.79v5H83V35h2.21l1.1.16A1.37,1.37,0,0,1,87.07,37l-.79.79H86ZM62,45l-.47.32-.15-.48a1.79,1.79,0,0,0-1.74-.47,1.27,1.27,0,0,0-.78.79l-.32,1.1A3.06,3.06,0,0,0,58.9,48a.86.86,0,0,0,.47.79,1,1,0,0,0,1.1.32c.32,0,.47-.32.63-.63l.16-.79v-1h.94v4.89h-.94V49.13l-.16.15a2.11,2.11,0,0,1-2.36,0,2.5,2.5,0,0,1-1.26-2.2,2.67,2.67,0,0,1,.32-1.89,2.79,2.79,0,0,1,1.73-1.26,2.12,2.12,0,0,1,2.2.63Zm8.5,0-.47.32L69.91,45a1.28,1.28,0,0,0-1.57-.63c-.47,0-.63.32-.94.63l-.16,1.1v1.74l.47.94,1.1.32a1.06,1.06,0,0,0,.79-.63l.16-.63V46.76h.94v4.89h-.94V49.13H69.6a2.15,2.15,0,0,1-2.68,0,3.16,3.16,0,0,1-1.1-2.52,3.1,3.1,0,0,1,1.42-2.37,2.51,2.51,0,0,1,2.36-.15A1.39,1.39,0,0,1,70.54,45ZM52.45,40.62a2.77,2.77,0,0,1-2.84-2.52,2.54,2.54,0,0,1,.16-1.57A2.23,2.23,0,0,1,52.13,35a2.71,2.71,0,0,1,2.68,2v2A2.43,2.43,0,0,1,52.45,40.62Zm-1.74-2.83.16.63.47,1.41a1.22,1.22,0,0,0,1.73,0l.48-.78.15-2.21-.63-1.26a1.24,1.24,0,0,0-1.73,0l-.31.63Zm7.87-2.68h1.26v.31l-.16.16h-.94l-.16.16v4.72h-1.1V32.59a1.43,1.43,0,0,1,1-1h1.25l.16.16c0,.32,0,.32-.31.32h-.48c-.31.15-.47.15-.47.63Zm-9,9h1.1v3.46l.16.63c.16.47.47.63,1,.79l.31-.16c.47,0,.79-.31.94-.94V44.24l.16-.15c.32,0,.32,0,.32.31v3.15l-.16,1a1.53,1.53,0,0,1-1.26,1.1l-1.26-.16a1.72,1.72,0,0,1-1.26-1.26V44.09Zm31-3.63h-1.1L79,39.2l-.16-.47H77.15l-.31.16-.32,1.42-.15.15h-.48l.32-.78,1.1-3.94v-.32A1,1,0,0,1,79,35.27l.32.63,1.25,4.41Zm-1.73-2.2h-.15l-.16-.79-.32-1.42-.31-.31-.16.31h-.16l-.31,1.26-.32.95ZM93.2,35.11v.31H91.32c-.48,0-.48.16-.48.63v1.26h1.73l.16.16c0,.32,0,.32-.31.32H90.84v1.73c0,.31,0,.47.32.47h2v.47h-3c-.47-.15-.63-.31-.63-.63V35.58c.16-.31.32-.47.63-.47l.32-.16h2.52ZM77.94,46.29v.47H76.05v1.89c0,.16,0,.32.32.32h2v.47h-3c-.31-.16-.47-.16-.47-.47V44.56c0-.32.16-.47.63-.47h2.83v.31H77.15l-.63.16c-.31,0-.47,0-.47.31v1.26l.16.16ZM82.35,49h1.73a.71.71,0,0,0,.31-1.26l-.63-.47-1.1-.79a1.45,1.45,0,0,1-.47-1.1,1.49,1.49,0,0,1,1.26-1.26L85,43.93l.16.16h.16v.31h-.79l-.79.16c-.47.16-.63.63-.31.94l.63.48,1.1.78A1.48,1.48,0,0,1,85,49.28a2.19,2.19,0,0,1-1.42.16H82.5l-.15-.16ZM63.93,40.46H62.67V35.74l-.15-.32h-1v-.31H65v.31h-1.1Zm27.7,9h-1.1V44.56h-1l-.15-.16c0-.47-.16-.31.31-.31h3.15v.31l-.16.16h-.79c-.31,0-.15-.16-.15.16v4.56ZM97.3,32.27A2.68,2.68,0,1,1,94.62,35a2.68,2.68,0,0,1,2.68-2.68ZM94.93,35a2.29,2.29,0,1,0,2.29-2.28A2.3,2.3,0,0,0,94.93,35Zm2.84.32.47.94h-.32l-.62-.94h-.48v.94h-.47V33.69h1.1l.32.16h.31l.16.47.16.16-.16.31V35l-.32.32Zm-1-.32h.63l.16-.16h.16l.15-.15v-.48h-.15L97.61,34h-.79Z" style="fill: #175b8c;fill-rule: evenodd"></path>
+    <rect x="11.65" y="56.75" width="112.7" height="31.83" style="fill: #175b8c"></rect>
+    <path d="M30.62,61.35h1.83l2.55,6,2.55-6h1.81v8H37.75V64.15l-2.14,5.22H34.39l-2.16-5.22v5.22H30.62Zm13.16,8.13a3.12,3.12,0,0,1-3.23-3.29,3.28,3.28,0,1,1,6.55,0A3.18,3.18,0,0,1,43.78,69.48Zm0-1.41a1.9,1.9,0,0,0,0-3.77,1.66,1.66,0,0,0-1.62,1.89C42.18,67.45,42.92,68.07,43.78,68.07Zm6.94,1.41c-1.6,0-2.71-.93-2.78-2.12h1.62a1.06,1.06,0,0,0,1.15.85c.63,0,1-.29,1-.65,0-1.14-3.6-.42-3.6-2.75,0-1.06.94-1.91,2.52-1.91A2.28,2.28,0,0,1,53.17,65H51.63a1,1,0,0,0-1.07-.82c-.6,0-.91.24-.91.61,0,1.16,3.53.43,3.58,2.77C53.23,68.65,52.27,69.48,50.72,69.48Zm4.08-5.15H54V63h.76V61.43h1.62V63h1.43v1.33H56.42v3.08c0,.42.17.61.68.61h.75v1.35h-1c-1.22,0-2-.51-2-2Zm9.9,2H63.35v3.08H61.74v-8h3c1.93,0,2.89,1.09,2.89,2.48C67.59,65.05,66.77,66.29,64.7,66.29ZM64.63,65c.91,0,1.31-.45,1.31-1.16s-.4-1.17-1.31-1.17H63.35V65Zm6.93,4.49a3.12,3.12,0,0,1-3.23-3.29,3.28,3.28,0,1,1,6.55,0A3.18,3.18,0,0,1,71.56,69.48Zm0-1.41a1.9,1.9,0,0,0,0-3.77A1.66,1.66,0,0,0,70,66.19C70,67.45,70.7,68.07,71.56,68.07Zm8.22-5.17a3,3,0,0,1,2.91,3.27,3,3,0,0,1-2.91,3.31,2.65,2.65,0,0,1-2.11-1v3.94h-1.6V63h1.6v.92A2.55,2.55,0,0,1,79.78,62.9Zm-.43,1.41A1.89,1.89,0,1,0,81,66.17,1.7,1.7,0,0,0,79.35,64.31Zm10.52,5.06H88.25v-.8a2.34,2.34,0,0,1-1.9.88,2.45,2.45,0,0,1-2.55-2.71V63h1.61v3.51c0,1,.56,1.58,1.41,1.58a1.38,1.38,0,0,0,1.43-1.58V63h1.62Zm1.59-8.51h1.61v8.51H91.46Zm5.69,2a2.51,2.51,0,0,1,2.1,1V63h1.62v6.37H99.25v-.93a2.52,2.52,0,0,1-2.12,1,3,3,0,0,1-2.89-3.31A3,3,0,0,1,97.15,62.9Zm.41,1.41a1.71,1.71,0,0,0-1.68,1.86,1.74,1.74,0,0,0,1.68,1.89,1.89,1.89,0,0,0,0-3.75Zm6.49,5.06h-1.6V63h1.6v1a2.23,2.23,0,0,1,2-1.08V64.6h-.43c-1,0-1.53.37-1.53,1.6ZM45.6,83.25c-1.67,0-3-.88-3-2.4h1.73a1.09,1.09,0,0,0,1.21,1.07c.76,0,1.21-.4,1.21-1,0-1.74-4.14-.69-4.12-3.6,0-1.45,1.17-2.33,2.82-2.33s2.77.84,2.88,2.29H46.58a1.06,1.06,0,0,0-1.15-1c-.64,0-1.11.28-1.11.94,0,1.61,4.12.71,4.12,3.54C48.44,82.11,47.43,83.25,45.6,83.25Zm7.06,0a3.29,3.29,0,0,1,0-6.58A3.15,3.15,0,0,1,56,80,3.18,3.18,0,0,1,52.66,83.27Zm0-1.4A1.7,1.7,0,0,0,54.32,80a1.65,1.65,0,1,0-3.26,0C51.06,81.24,51.79,81.87,52.66,81.87Zm4.67-3.75h-.72V76.79h.72v-.32c0-1.56.89-2.29,2.68-2.24v1.36c-.78,0-1,.23-1,.94v.26h1.11v1.33H59v5H57.33Zm4.05,0h-.76V76.79h.76V75.22H63v1.57h1.43v1.33H63V81.2c0,.42.17.61.68.61h.75v1.36h-1a1.77,1.77,0,0,1-2-2Zm3.49-1.33h1.64l1.12,4.86,1.22-4.86h1.7l1.2,4.85,1.12-4.85h1.54l-1.86,6.38H70.82l-1.16-4.46L68.5,83.17H66.75Zm12.91-.1a2.52,2.52,0,0,1,2.11,1v-.91h1.62v6.38H79.89v-.94a2.51,2.51,0,0,1-2.12,1A3,3,0,0,1,74.87,80,3,3,0,0,1,77.78,76.69Zm.42,1.41A1.7,1.7,0,0,0,76.52,80a1.73,1.73,0,0,0,1.68,1.89,1.89,1.89,0,0,0,0-3.75Zm6.49,5.07H83.08V76.79h1.61v1a2.22,2.22,0,0,1,2-1.08v1.69h-.42c-1,0-1.53.37-1.53,1.6Zm5.82.1a3.29,3.29,0,0,1,0-6.58,3,3,0,0,1,3.13,3.15,4.21,4.21,0,0,1,0,.62H88.94a1.49,1.49,0,0,0,1.53,1.47,1.31,1.31,0,0,0,1.28-.77h1.73A3,3,0,0,1,90.51,83.27ZM89,79.38h3A1.42,1.42,0,0,0,90.46,78,1.47,1.47,0,0,0,89,79.38Z" style="fill: #fff"></path>
+    <path d="M57.88,96.5h.85l.7,3.07.8-3.07h.88l.76,3,.7-3h.85l-1.1,4h-.93l-.74-2.81-.78,2.81H59Zm6.06,0h.79v4h-.79Zm4.94,0v4h-.79L66.3,97.74v2.71h-.79v-4h.79l1.79,2.71V96.5Zm.58,0h2.89v.64h-1v3.31h-.79V97.14H69.46Zm5.76.64h-1.5v1h1.33v.63H73.72v1h1.5v.64H72.93v-4h2.29Zm2.19-.64c1,0,1.43.55,1.43,1.22a1.14,1.14,0,0,1-.9,1.13l.94,1.6H78l-.87-1.54h-.38v1.54h-.79v-4Zm0,.66h-.67v1.16h.67c.44,0,.63-.23.63-.59S77.83,97.16,77.39,97.16Zm-20.6,14.36c1.69-1.44,3.45-2.76,3.45-4.13,0-.66-.29-1.11-1-1.11s-1.06.49-1.07,1.28H56.78a2.34,2.34,0,0,1,2.48-2.5,2.15,2.15,0,0,1,2.41,2.25c0,1.73-1.66,3.08-2.85,4.08h3v1.19H56.79Zm8.71-6.44c2.1,0,2.76,1.62,2.76,3.78s-.66,3.8-2.76,3.8-2.76-1.63-2.76-3.8S63.39,105.08,65.5,105.08Zm0,1.33c-1.21,0-1.35,1.17-1.35,2.45s.14,2.47,1.35,2.47,1.35-1.14,1.35-2.47S66.7,106.41,65.5,106.41Zm3.76,5.11c1.68-1.44,3.45-2.76,3.45-4.13,0-.66-.3-1.11-1-1.11s-1.06.49-1.07,1.28H69.25a2.34,2.34,0,0,1,2.48-2.5,2.15,2.15,0,0,1,2.41,2.25c0,1.73-1.66,3.08-2.85,4.08h3v1.19h-5Zm5.86,0c1.69-1.44,3.46-2.76,3.46-4.13,0-.66-.3-1.11-1-1.11s-1.07.49-1.08,1.28H75.11a2.35,2.35,0,0,1,2.49-2.5A2.15,2.15,0,0,1,80,107.31c0,1.73-1.67,3.08-2.85,4.08h3v1.19h-5Z" style="fill: #00385b"></path>
+    <path d="M68.51,21.56c-1.75,0-5.07.25-5.07,1.2S66.76,24,68.51,24s5.07-.25,5.07-1.19S70.26,21.56,68.51,21.56Zm0,2c-3.05,0-4.71-.55-4.71-.83S65.33,22,68.51,22s4.72.52,4.72.72S71.56,23.59,68.51,23.59ZM61.08,17a.51.51,0,0,1-.17,0,.41.41,0,0,1-.42-.41.42.42,0,0,1,.84,0,.39.39,0,0,1-.11.27l2.69,1.85a.72.72,0,0,0-.23.53.74.74,0,0,0,1.47,0,.73.73,0,0,0-.64-.72l.15-2.69a.42.42,0,1,1,.42-.42.41.41,0,0,1-.14.31l1.67,2.19a.74.74,0,0,0-.29.6.78.78,0,0,0,1.55,0,.77.77,0,0,0-.51-.73l1-2.7a.43.43,0,0,1-.26-.39.42.42,0,0,1,.84,0,.44.44,0,0,1-.25.39l1,2.7a.77.77,0,0,0-.51.73.78.78,0,0,0,.78.77.77.77,0,0,0,.77-.77.74.74,0,0,0-.29-.6l1.7-2.16a.44.44,0,0,1-.17-.34.42.42,0,1,1,.42.42l.15,2.69a.72.72,0,0,0-.63.72.73.73,0,1,0,1.23-.53l2.69-1.85a.43.43,0,0,1-.1-.27.42.42,0,1,1,.83,0,.41.41,0,0,1-.42.41.47.47,0,0,1-.17,0L73.5,22.27c-.86-.83-3.94-.91-5-.91h0c-1.05,0-4.12.08-5,.91Z" style="fill: url(#linear-gradient-ss-4)"></path>
+    <path d="M81.08,19.69l.48,1.46h1.52l-1.23.9.47,1.45-1.24-.9-1.23.9.47-1.45-1.24-.9h1.53Zm4.23,1.46H84l1,.75-.4,1.22,1-.75,1,.75-.39-1.22,1-.75H86.1l-.39-1.22Zm4,.11h-.95l.77.56-.29.9.77-.56.77.56-.3-.9.77-.56h-1l-.29-.91Zm-34.4-1.57-.48,1.46H52.92l1.23.9-.47,1.45,1.24-.9,1.23.9-.47-1.45,1.24-.9H55.39Zm-4.63.24-.39,1.22H48.62l1,.75-.39,1.22,1-.75,1,.75-.4-1.22,1-.75H50.69Zm-3.91.42-.29.91h-1l.77.56-.3.9.77-.56.77.56-.29-.9.77-.56h-1Z" style="fill: #f3a837"></path>
+  </g>
+</svg>
+                    </a>
+                </li>
+                <li class="svgator-award svgator-award-fixThePhoto">
+                    <a href="https://fixthephoto.com/svgator-app-review.html" aria-label="FixThePhoto" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 124 136">
+    <defs>
+        <lineargradient id="linear-gradient-ftp" x1="26.9" y1="100.47" x2="97.1" y2="30.27" gradientUnits="userSpaceOnUse">
+            <stop offset="0.13" stop-color="#fade98"></stop>
+            <stop offset="0.56" stop-color="#9e7c48"></stop>
+            <stop offset="0.86" stop-color="#fce19a"></stop>
+        </lineargradient>
+        <lineargradient id="linear-gradient-ftp-2" x1="18.52" y1="21.89" x2="105.48" y2="108.85" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fce19a"></stop>
+            <stop offset="0.25" stop-color="#c6a76b"></stop>
+            <stop offset="0.44" stop-color="#9e7c48"></stop>
+            <stop offset="1" stop-color="#fade98"></stop>
+        </lineargradient>
+        <lineargradient id="linear-gradient-ftp-3" x1="32.57" y1="36.44" x2="91.43" y2="95.3" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fade98"></stop>
+            <stop offset="0.56" stop-color="#9e7c48"></stop>
+            <stop offset="1" stop-color="#fce19a"></stop>
+        </lineargradient>
+        <lineargradient id="linear-gradient-ftp-4" x1="32.5" y1="36.37" x2="91.5" y2="95.37" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e3c584"></stop>
+            <stop offset="0.56" stop-color="#9e7c48"></stop>
+            <stop offset="1" stop-color="#dec080"></stop>
+        </lineargradient>
+    </defs>
+    <g>
+        <path d="M62,15.73a49.64,49.64,0,1,0,49.64,49.64A49.65,49.65,0,0,0,62,15.73Zm0,76.74A27.11,27.11,0,1,1,79.76,44.9c-7.84,8.31-14,18.48-18.84,30.05l-7.3-14.43L38,69.83a63.83,63.83,0,0,1,23.3,20c7.83-13,16.43-23.59,27.09-30.69a26.8,26.8,0,0,1,.74,6.25A27.1,27.1,0,0,1,62,92.47Z" style="stroke: #a07f4b;stroke-miterlimit: 10;stroke-width: 0.29524301000429887px;fill: url(#linear-gradient-ftp)"></path>
+        <path d="M62,3.88a61.49,61.49,0,1,0,61.49,61.49A61.49,61.49,0,0,0,62,3.88Zm0,105.41a43.93,43.93,0,1,1,43.93-43.92A43.92,43.92,0,0,1,62,109.29Z" style="stroke: #a07f4b;stroke-miterlimit: 10;stroke-width: 0.29524301000429887px;fill: url(#linear-gradient-ftp-2)"></path>
+        <path d="M62,22.86l1.16,2.35,2.6.38-1.88,1.83L64.32,30,62,28.78,59.68,30l.44-2.58-1.88-1.83,2.6-.38Zm6.74,5-1.6.23,1.16,1.13L68,30.8l1.44-.75,1.43.75-.27-1.59,1.16-1.13-1.61-.23-.71-1.46Zm5.72,2.58-1.13.16.82.8L74,32.52,75,32l1,.53-.19-1.13.82-.8-1.14-.16-.5-1Zm-19.92-4-.71,1.46-1.61.23,1.16,1.13-.27,1.59,1.43-.75L56,30.8l-.28-1.59,1.16-1.13-1.6-.23ZM49,29.4l-.5,1-1.14.16.82.8L48,32.52,49,32l1,.53-.2-1.13.82-.8-1.13-.16ZM71.9,101.81c.45-.13.88-.28,1.32-.42a4.78,4.78,0,0,0,3.84,2A14.1,14.1,0,0,0,83,102a8.33,8.33,0,0,0-4.9-1.68,14.07,14.07,0,0,0-2.35.15,39.21,39.21,0,0,0,4.15-1.9,4.78,4.78,0,0,0,4.07,1.23,11.69,11.69,0,0,0,5.39-2.43,8.64,8.64,0,0,0-5.21-.76,13.71,13.71,0,0,0-1.69.44,35.88,35.88,0,0,0,3.27-2.42A4.8,4.8,0,0,0,90,95a10.16,10.16,0,0,0,4.45-3.25,8.33,8.33,0,0,0-5.33.24c-.37.17-.7.33-1,.49.83-.83,1.61-1.7,2.35-2.6a4.81,4.81,0,0,0,4.21-.41,10.3,10.3,0,0,0,3.83-4,8.37,8.37,0,0,0-5.22,1.14c-.36.25-.67.48-1,.7a35.2,35.2,0,0,0,2-3.24A4.78,4.78,0,0,0,98.32,83a8.91,8.91,0,0,0,2.89-4.27,6.74,6.74,0,0,0-4.75,1.74,12,12,0,0,0-.95,1c.49-1.16.92-2.36,1.3-3.59a4.74,4.74,0,0,0,4-1.82,9,9,0,0,0,2.11-4.7,6.74,6.74,0,0,0-4.38,2.53,11.19,11.19,0,0,0-1.12,1.84c.31-1.27.56-2.57.75-3.89A5.75,5.75,0,0,0,102,69.32a9,9,0,0,0,1.32-5.5A7,7,0,0,0,99.6,67a15.24,15.24,0,0,0-1.22,2.78c.12-1.3.2-2.63.2-4,0-.19,0-.36,0-.54a5.7,5.7,0,0,0,3.36-3.09,9,9,0,0,0,.43-5.64,7,7,0,0,0-3.15,3.68,15.74,15.74,0,0,0-.71,2.7c-.07-1.48-.2-2.9-.39-4.27a5.74,5.74,0,0,0,2.67-3.67,9.53,9.53,0,0,0-.76-5.83,8.25,8.25,0,0,0-2.28,4.43,15.18,15.18,0,0,0-.18,2.14,35.53,35.53,0,0,0-1-3.55,5.77,5.77,0,0,0,1.73-4.21,10,10,0,0,0-2-5.48A7.76,7.76,0,0,0,95,47.27a14.16,14.16,0,0,0,.2,1.53,30.48,30.48,0,0,0-1.6-2.92,6.09,6.09,0,0,0,.81-4.46,9.6,9.6,0,0,0-3.09-5,9.22,9.22,0,0,0-.09,5A15,15,0,0,0,92,43.53a31.63,31.63,0,0,0-2.87-3.31,5.25,5.25,0,0,0,.13-4.32,11.82,11.82,0,0,0-4-4.82,10.09,10.09,0,0,0,.8,5.1,14.52,14.52,0,0,0,1.39,2.38c-.78-.69-1.61-1.36-2.47-2A6.13,6.13,0,0,0,82.69,33a5.89,5.89,0,0,0-4.41-1.34,5.86,5.86,0,0,0,2.32,4,6,6,0,0,0,4,1.37c.66.52,1.3,1,1.91,1.56A6,6,0,0,0,84.71,38a5.64,5.64,0,0,0-4.48,1.11,10.41,10.41,0,0,0,4.78,2,6,6,0,0,0,3.71-.45,31.72,31.72,0,0,1,3,3.52,6.25,6.25,0,0,0-2.07-1.23,5.66,5.66,0,0,0-4.6.32,10.43,10.43,0,0,0,4.36,2.8,6.09,6.09,0,0,0,3.73.19,28.87,28.87,0,0,1,2.23,4.36,7,7,0,0,0-2.2-2.1A5.65,5.65,0,0,0,88.59,48a10.39,10.39,0,0,0,3.79,3.54,6.09,6.09,0,0,0,3.66.86,34.34,34.34,0,0,1,1.15,4.36,7.37,7.37,0,0,0-1.62-2.24,4.89,4.89,0,0,0-4.38-1.27,12.36,12.36,0,0,0,3,3.8,6,6,0,0,0,3.37,1.7c.18,1.32.31,2.68.38,4.1a7.53,7.53,0,0,0-1-2A4.06,4.06,0,0,0,93.07,59a9.44,9.44,0,0,0,2,3.89,6,6,0,0,0,3,2.31c0,.18,0,.34,0,.52,0,1.16,0,2.31-.14,3.44a7.32,7.32,0,0,0-.65-1.89,4,4,0,0,0-3.48-2.46A9.39,9.39,0,0,0,95,69a6.06,6.06,0,0,0,2.54,2.76c-.16,1.16-.36,2.29-.62,3.4a7.17,7.17,0,0,0-.42-1.91,4.08,4.08,0,0,0-3.18-2.84,9.49,9.49,0,0,0,.81,4.28,6.24,6.24,0,0,0,2.11,3A37,37,0,0,1,94.61,82a7.29,7.29,0,0,0,0-2.51A5.2,5.2,0,0,0,92,75.73a8.39,8.39,0,0,0-.24,4.65,5.84,5.84,0,0,0,1.94,3.51,34.11,34.11,0,0,1-2.65,4.23,8.29,8.29,0,0,0,.7-3.15,5.06,5.06,0,0,0-2-4.13,10.65,10.65,0,0,0-1.1,4.94,5.7,5.7,0,0,0,1.3,3.78,32.54,32.54,0,0,1-3.26,3.49,8.15,8.15,0,0,0,1.22-3,5.05,5.05,0,0,0-1.29-4.42,10.54,10.54,0,0,0-1.93,4.68,5.77,5.77,0,0,0,.61,3.91,36.33,36.33,0,0,1-4,2.85A8.07,8.07,0,0,0,83,94.58a5.07,5.07,0,0,0-.32-4.6,10.61,10.61,0,0,0-2.89,4.16,5.73,5.73,0,0,0-.23,4,37.59,37.59,0,0,1-4.69,2.11,8.8,8.8,0,0,0,2.32-2.35,5.7,5.7,0,0,0,.71-4.61,11.29,11.29,0,0,0-4,3.76,5.77,5.77,0,0,0-.91,3.82c-.43.14-.86.29-1.3.42Zm-19.42-.5L51,100.84A5.77,5.77,0,0,0,50.09,97a11.29,11.29,0,0,0-4-3.76,5.7,5.7,0,0,0,.71,4.61,8.8,8.8,0,0,0,2.32,2.35,37.59,37.59,0,0,1-4.69-2.11,5.73,5.73,0,0,0-.23-4A10.61,10.61,0,0,0,41.35,90a5.07,5.07,0,0,0-.32,4.6,8.07,8.07,0,0,0,1.72,2.52,36.33,36.33,0,0,1-4-2.85,5.77,5.77,0,0,0,.61-3.91,10.54,10.54,0,0,0-1.93-4.68,5.05,5.05,0,0,0-1.29,4.42,8.15,8.15,0,0,0,1.22,3,32.54,32.54,0,0,1-3.26-3.49,5.7,5.7,0,0,0,1.3-3.78,10.65,10.65,0,0,0-1.1-4.94,5.06,5.06,0,0,0-2,4.13,8.29,8.29,0,0,0,.7,3.15,34.11,34.11,0,0,1-2.65-4.23,5.84,5.84,0,0,0,1.94-3.51A8.39,8.39,0,0,0,32,75.73a5.2,5.2,0,0,0-2.6,3.74,7.29,7.29,0,0,0,0,2.51,37,37,0,0,1-1.65-4.34,6.24,6.24,0,0,0,2.11-3,9.49,9.49,0,0,0,.81-4.28,4.08,4.08,0,0,0-3.18,2.84,7.17,7.17,0,0,0-.42,1.91c-.26-1.11-.46-2.24-.62-3.4A6.06,6.06,0,0,0,29,69a9.39,9.39,0,0,0,1.3-4.15A4,4,0,0,0,26.8,67.3a7.32,7.32,0,0,0-.65,1.89c-.09-1.13-.14-2.28-.14-3.44,0-.18,0-.34,0-.52a6,6,0,0,0,3-2.31A9.44,9.44,0,0,0,30.93,59a4.06,4.06,0,0,0-3.84,1.86,7.53,7.53,0,0,0-1,2c.07-1.42.2-2.78.38-4.1A6,6,0,0,0,29.84,57a12.36,12.36,0,0,0,3-3.8,4.89,4.89,0,0,0-4.38,1.27,7.37,7.37,0,0,0-1.62,2.24A34.34,34.34,0,0,1,28,52.39a6.09,6.09,0,0,0,3.66-.86A10.39,10.39,0,0,0,35.41,48a5.65,5.65,0,0,0-4.59.51,7,7,0,0,0-2.2,2.1,28.87,28.87,0,0,1,2.23-4.36,6.09,6.09,0,0,0,3.73-.19,10.43,10.43,0,0,0,4.36-2.8,5.66,5.66,0,0,0-4.6-.32,6.25,6.25,0,0,0-2.07,1.23,31.72,31.72,0,0,1,3-3.52,6,6,0,0,0,3.71.45,10.41,10.41,0,0,0,4.78-2A5.64,5.64,0,0,0,39.29,38a6,6,0,0,0-1.82.61c.61-.52,1.25-1,1.91-1.56a6,6,0,0,0,4-1.37,5.86,5.86,0,0,0,2.32-4A5.89,5.89,0,0,0,41.31,33a6.13,6.13,0,0,0-2.25,3.52c-.86.67-1.69,1.34-2.47,2A14.52,14.52,0,0,0,38,36.18a10.09,10.09,0,0,0,.8-5.1,11.82,11.82,0,0,0-4.05,4.82,5.25,5.25,0,0,0,.13,4.32A31.63,31.63,0,0,0,32,43.53a15,15,0,0,0,.75-2.15,9.22,9.22,0,0,0-.09-5,9.6,9.6,0,0,0-3.09,5,6.09,6.09,0,0,0,.81,4.46,30.48,30.48,0,0,0-1.6,2.92,14.16,14.16,0,0,0,.2-1.53,7.76,7.76,0,0,0-1.32-4.85,10,10,0,0,0-2,5.48,5.77,5.77,0,0,0,1.73,4.21,35.53,35.53,0,0,0-1,3.55,15.18,15.18,0,0,0-.18-2.14A8.25,8.25,0,0,0,24,49.09a9.53,9.53,0,0,0-.76,5.83,5.74,5.74,0,0,0,2.67,3.67c-.19,1.37-.32,2.79-.39,4.27a15.74,15.74,0,0,0-.71-2.7,7,7,0,0,0-3.15-3.68,9,9,0,0,0,.43,5.64,5.7,5.7,0,0,0,3.36,3.09c0,.18,0,.35,0,.54,0,1.35.08,2.68.2,4A15.24,15.24,0,0,0,24.4,67a7,7,0,0,0-3.69-3.13A9,9,0,0,0,22,69.32a5.75,5.75,0,0,0,3.82,2.51c.19,1.32.44,2.62.75,3.89a11.19,11.19,0,0,0-1.12-1.84,6.74,6.74,0,0,0-4.38-2.53,9,9,0,0,0,2.11,4.7,4.74,4.74,0,0,0,4,1.82c.38,1.23.81,2.43,1.3,3.59a12,12,0,0,0-.95-1,6.74,6.74,0,0,0-4.75-1.74A8.91,8.91,0,0,0,25.68,83a4.78,4.78,0,0,0,4.07,1.14,35.2,35.2,0,0,0,1.95,3.24c-.28-.22-.59-.45-.95-.7a8.37,8.37,0,0,0-5.22-1.14,10.3,10.3,0,0,0,3.83,4,4.81,4.81,0,0,0,4.21.41c.74.9,1.52,1.77,2.35,2.6-.29-.16-.62-.32-1-.49a8.33,8.33,0,0,0-5.33-.24A10.16,10.16,0,0,0,34.05,95a4.8,4.8,0,0,0,4.26-.34,35.88,35.88,0,0,0,3.27,2.42,13.71,13.71,0,0,0-1.69-.44,8.64,8.64,0,0,0-5.21.76,11.69,11.69,0,0,0,5.39,2.43,4.78,4.78,0,0,0,4.07-1.23,39.21,39.21,0,0,0,4.15,1.9,14.07,14.07,0,0,0-2.35-.15A8.33,8.33,0,0,0,41,102a14.1,14.1,0,0,0,5.9,1.31,4.78,4.78,0,0,0,3.84-2c.51.17,1,.34,1.54.49Z" style="stroke-linejoin: round;stroke-width: 0.2px;fill: url(#linear-gradient-ftp-3);stroke: url(#linear-gradient-ftp-4)"></path>
+        <path d="M62.78,121.58c-1.36,0-2.74,0-4.08-.14l.58-8c1.16.08,2.34.12,3.5.12h.15V115H62.8l-1.35,0h-.11l-.05,1.8h1.55v1.34h-.11c-.45,0-.9,0-1.36,0h-.12l0,2.06h.12l1.45,0h.37v1.42Zm1.4,0c.29-1.5.55-3,.79-4.5-.34-1.21-.66-2.37-1-3.54.67,0,1.34,0,2-.09.1.37.2.72.31,1.07s.22.68.32,1.06h.23c.11-.74.21-1.47.31-2.2q.86-.07,1.71-.18c-.12,1.19-.25,2.39-.4,3.58.59,1.49,1.22,2.93,1.87,4.34-.75.1-1.5.18-2.25.25a19.54,19.54,0,0,1-1-2.85l-.23,0c0,.62-.06,1-.29,2.94C65.78,121.51,65,121.54,64.18,121.56Zm9.28-.87a2,2,0,0,1-1.91-.82,9.29,9.29,0,0,1-.7-3.07l-.15-1a9.2,9.2,0,0,1-.13-1.32c0-.16.06-1.63,2.25-2.07a4.68,4.68,0,0,1,.91-.09,2.16,2.16,0,0,1,1.8.72,4.91,4.91,0,0,1,.63,1.55l.17.65c-.73.19-1.46.36-2.2.52l-.11-.49a5.62,5.62,0,0,0-.43-1.6.39.39,0,0,0-.33-.14h-.15a.49.49,0,0,0-.43.35,2.85,2.85,0,0,0,.08.87l.75,3.77a2.26,2.26,0,0,0,.26.81.46.46,0,0,0,.37.16.62.62,0,0,0,.18,0,.48.48,0,0,0,.43-.34,2.38,2.38,0,0,0-.09-.92l-.2-.9c.76-.17,1.52-.34,2.28-.54a6.46,6.46,0,0,1,.3,2c-.1.7-1,1.57-2.46,1.87A5.7,5.7,0,0,1,73.46,120.69Zm-22.81-.37c-.81-.17-1.62-.35-2.42-.56l2-7.78c1.2.3,2.42.56,3.64.78l-.25,1.4-1.52-.29-.11,0-.38,1.77.12,0c.46.1.93.19,1.39.27l-.24,1.32c-.48-.08-.95-.18-1.43-.28l-.11,0ZM77,111.53c1.17-.34,2.34-.73,3.49-1.16L81,111.7c-.47.18-.94.34-1.41.5l-.12,0L80,114l.11,0c.46-.15.91-.31,1.37-.48l.47,1.25c-.46.18-.93.34-1.4.5l-.11,0,.67,2,.11,0,1.73-.62.51,1.33c-1.39.52-2.82,1-4.26,1.41Zm-32,7.28a4.57,4.57,0,0,1-1.43-.26c-1.54-.53-2.4-1.58-2.14-2.63a43.58,43.58,0,0,1,1.88-4.58,2,2,0,0,1,1.79-1,3.9,3.9,0,0,1,1.24.23c2,.69,2,2,1.93,2.41s-.21.94-.43,1.72l-.15.52a25,25,0,0,1-.8,2.51A1.94,1.94,0,0,1,45,118.81Zm.79-7.12a.41.41,0,0,0-.24.08c-.08,0-.2.18-.4.75l-1.31,3.64a2.57,2.57,0,0,0-.23.91c0,.12.07.29.34.38a.78.78,0,0,0,.21,0,.42.42,0,0,0,.31-.15,2.91,2.91,0,0,0,.4-.89l1.22-3.6a2,2,0,0,0,.18-.78.52.52,0,0,0-.48-.38Zm36.08-1.87c.66-.27,1.31-.55,2-.85l2.8,6,.11,0c.46-.21.91-.43,1.37-.66l.63,1.28c-1.23.61-2.51,1.18-3.8,1.71Zm4.39-2c.63-.34,1.25-.68,1.87-1l3.37,5.72.1-.06c.44-.26.88-.52,1.31-.79l.76,1.2c-1.19.74-2.41,1.45-3.65,2.1Zm-51,7c-.76-.41-1.51-.83-2.26-1.28q.42-1.77.9-3.51l-.21-.09-1.82,2.91c-.72-.45-1.43-.92-2.13-1.4l4.6-6.62c.59.41,1.19.81,1.8,1.19l-1.64,2.63.17.16q1.3-1.05,2.55-2.13c.57.34,1.15.66,1.73,1C38,108.41,37,109.24,36,110,35.68,111.63,35.43,113.19,35.23,114.73Zm55.21-9.44c1-.7,2.09-1.44,3.08-2.21l.87,1.12q-.6.48-1.23.93l-.09.07,1.06,1.46.1-.07c.4-.29.8-.59,1.19-.9l.82,1.06c-.4.32-.81.62-1.22.92l-.1.08,1.22,1.66.09-.07c.51-.37,1-.75,1.51-1.15l.88,1.12c-1.2,1-2.46,1.86-3.74,2.71Zm-62.25,5c-.63-.47-1.26-1-1.88-1.45l1.66-2c.4-.5.45-.7.45-.8s-.14-.38-.47-.65l-.09-.07-2.39,2.87c-.66-.56-1.32-1.13-2-1.73L29,100.47c.39.36.8.72,1.2,1.07a20.55,20.55,0,0,1,1.72,1.56,1.8,1.8,0,0,1-.19,2.41c-.45.62-.75.85-1.09.85a1.76,1.76,0,0,1-.9-.37l-.16.17c.19.2.74.86.53,1.45a17.3,17.3,0,0,1-1.38,2Zm.35-5.83.09.07a1.42,1.42,0,0,0,.59.34h0c.21,0,.41-.14.64-.43l.29-.36a.73.73,0,0,0,.22-.61,1.21,1.21,0,0,0-.42-.54l-.09-.07Zm66.2-2.35c.47-.39.94-.79,1.39-1.2,1.16.61,2.34,1.19,3.51,1.73l.14-.18-2.49-2.63c.44-.42.87-.85,1.3-1.29l5.77,5.61c-.53.56-1.08,1.1-1.64,1.64-1.18-.56-2.37-1.15-3.53-1.76l-.14.18,2.43,2.72c-.53.48-1.07.94-1.61,1.4ZM22.56,105.5q-1-.93-1.89-1.92l1-1.13-.83-.91-1.21.87c-.61-.68-1.22-1.4-1.81-2.12,2.38-1.31,4.75-2.69,7.05-4.11.73.86,1.51,1.71,2.3,2.52C25.58,100.9,24,103.18,22.56,105.5Zm2.16-6.89c-1.33.88-2.32,1.53-2.92,2l-.1.08.82.9.08-.11c.6-.76,1.36-1.66,2.27-2.67Zm80.75,3.32a1.48,1.48,0,0,1-.42-.07c-1-.35-4-3.38-4.19-3.6s-.93-1.37.56-3.21a3.35,3.35,0,0,1,2.34-1.48,1.36,1.36,0,0,1,.29,0,4.7,4.7,0,0,1,1.48.79l.54.39c-.49.68-1,1.35-1.5,2l-1-.82c-.46-.37-.63-.44-.72-.45h0a.53.53,0,0,0-.44.23.49.49,0,0,0-.12.56,2.12,2.12,0,0,0,.6.63l3,2.46a2,2,0,0,0,.72.45h0a.6.6,0,0,0,.5-.26.53.53,0,0,0,.14-.56c-.1-.23-.43-.49-1.16-1.07l-.21-.18c.52-.67,1-1.36,1.54-2.06l.17.12a4.56,4.56,0,0,1,1.3,1.23c.36.63.18,1.94-.85,3.23A3.7,3.7,0,0,1,105.47,101.93ZM17,99.23c-.48-.62-.95-1.26-1.41-1.91L20,94.14l-.12-.2c-1.67.81-3.37,1.6-5.06,2.34l-.93-1.41c1.3-1.26,2.64-2.51,4-3.73L17.77,91l-4.56,2.78q-.63-1-1.23-2.13l7-3.87c.52.92,1.07,1.85,1.64,2.76l-.81.77c-.38.34-.83.76-2,1.87l.13.2c1.16-.52,2.32-1.06,3.46-1.6.59.87,1.21,1.72,1.84,2.54Zm87.31-7.79c.77-1.15,1.49-2.34,2.17-3.56l1.24.69c-.28.5-.56,1-.85,1.48l-.06.1,1.54.94.07-.11c.28-.47.55-.94.82-1.43l1.17.66c-.27.49-.56,1-.85,1.46l-.06.11,1.77,1.06.06-.11c.35-.59.7-1.2,1-1.81l1.24.68c-.82,1.49-1.7,3-2.63,4.34ZM114.09,68a2.33,2.33,0,1,1,2.33-2.33A2.33,2.33,0,0,1,114.09,68ZM9.91,68a2.33,2.33,0,1,1,2.34-2.33A2.33,2.33,0,0,1,9.91,68ZM99.47,31.86a1.69,1.69,0,0,1-.66-.25,9.05,9.05,0,0,1-1.06-.88c-.45-.4-1.06-.95-2-1.71l5.08-6.23c.48.39,1,.79,1.42,1.2a11.92,11.92,0,0,1,1.8,1.83c.86,1.24.21,1.88-.67,2.76l-2.2,2.2c-.77.77-1.16,1.09-1.61,1.09Zm-1.35-2.39.09.08a1,1,0,0,0,.6.32c.21,0,.41-.15.93-.71l1-1.14a13.61,13.61,0,0,0,1.6-1.82.44.44,0,0,0,0-.4,1.42,1.42,0,0,0-.41-.49l-.09-.08ZM21.23,26.68l-.09.08c-.34.33-.68.66-1,1l-1-1c1.31-1.3,2.69-2.56,4.11-3.74l.9,1.1L23.06,25,23,25.1l4.35,5c-.52.46-1,.92-1.53,1.39ZM95,28.41c-.49-.39-1-.76-1.48-1.13l1.55-2.13c.37-.5.42-.69.41-.8s-.14-.37-.45-.58L95,23.7l-2.16,3c-.55-.39-1.1-.77-1.66-1.13l4.38-6.75c.48.31.95.63,1.42,1a13.48,13.48,0,0,1,1.93,1.54,1.71,1.71,0,0,1-.17,2.43,1.32,1.32,0,0,1-2,.47l-.15.18c.46.53.6,1,.43,1.38a5.43,5.43,0,0,1-.7,1Zm.54-5.57.1.07a1.37,1.37,0,0,0,.59.28h0c.2,0,.39-.15.62-.47l.27-.36a.76.76,0,0,0,.19-.63,1.14,1.14,0,0,0-.47-.52l-.09-.06ZM29.25,28a1.83,1.83,0,0,1-1.28-.5,41.88,41.88,0,0,1-3.12-3.84c-.1-.16-.91-1.57,1.16-3.08A3.35,3.35,0,0,1,28,19.87a1.73,1.73,0,0,1,1.31.56A42.09,42.09,0,0,1,32,24.56c.18.35.63,1.61-1,2.83A3,3,0,0,1,29.25,28ZM27,21.44a.55.55,0,0,0-.51.49c0,.09,0,.27.4.75l2.3,3.11c.4.53.54.66.62.7a.31.31,0,0,0,.19.06h0a.5.5,0,0,0,.38-.2.41.41,0,0,0,.07-.37,3.48,3.48,0,0,0-.51-.82l-2.23-3.08c-.31-.44-.45-.55-.53-.59A.41.41,0,0,0,27,21.44Zm63.6,3.82q-.85-.54-1.74-1.05l.65-1.35-.9-.51-.84,1.23c-.6-.33-1.2-.64-1.81-.95,1.52-2.23,3.11-4.46,4.72-6.62,1,.54,2,1.12,3,1.72C92.74,20.25,91.69,22.79,90.6,25.26Zm.75-6.93c-.9,1.13-1.65,2.13-2.11,2.81l-.08.11.93.52,0-.12c.37-.87.84-1.94,1.41-3.2Zm-61.88.13c.7-.44,1.4-.87,2.11-1.28A6.12,6.12,0,0,1,33,16.52a2.28,2.28,0,0,1,.55-.08,1.1,1.1,0,0,1,.88.39,5,5,0,0,1,.6,1l.33.64c.41.79.51,1.23.06,1.78a4.27,4.27,0,0,1-1.24.9l-.38.22,1.68,2.89c-.58.33-1.14.67-1.7,1ZM32.78,18a1.31,1.31,0,0,0-.63.23l-.1.06,1.17,2,.1-.05c.25-.13.5-.28.55-.52a1.09,1.09,0,0,0-.2-.68l-.33-.59c-.16-.28-.32-.43-.49-.46ZM82.7,21.14l1-4.19-.21-.08-2.14,3.71L79,19.74l1.5-8,2.08.69-1.43,5.41.22.08,2.56-5,2.23.9-1.83,5.5.22.1,3-5,2,1L85,22.17Zm-40.52-.27c-1.29,0-1.76-1.06-2.21-2.09l-1-2.22a8.53,8.53,0,0,1-.47-1.24c-.21-.8.29-1.94,1.9-2.55a4.44,4.44,0,0,1,1.5-.3,1.73,1.73,0,0,1,1.4.56,4.81,4.81,0,0,1,.72,1.51l.2.64c-.67.22-1.35.45-2,.7l-.19-.5a5.55,5.55,0,0,0-.65-1.5.39.39,0,0,0-.26-.09.52.52,0,0,0-.24.05c-.3.11-.37.29-.37.42a2.41,2.41,0,0,0,.22.84l1.39,3.58a2.86,2.86,0,0,0,.38.75.41.41,0,0,0,.29.13.63.63,0,0,0,.22,0,.41.41,0,0,0,.31-.39,5.2,5.2,0,0,0-.45-1.49l-.1-.26c.65-.24,1.3-.47,2-.68a7.36,7.36,0,0,1,.45,1.95,2.34,2.34,0,0,1-1.72,1.95A3.67,3.67,0,0,1,42.18,20.87Zm2.13-9.24c.72-.22,1.44-.43,2.17-.62l.76,2.86.92-.23-.72-2.88c.73-.18,1.46-.34,2.2-.5l1.64,7.88c-.63.13-1.26.27-1.89.43l-.84-3.38-.9.23.89,3.37c-.63.16-1.25.34-1.86.53Zm33.17,7.63c-.63-.19-1.26-.37-1.9-.54l.26-1.47-1-.24-.48,1.42q-1-.24-1.95-.42c.86-2.55,1.78-5.12,2.75-7.65,1.11.24,2.22.51,3.31.82C78.22,13.86,77.88,16.57,77.48,19.26ZM76.41,12.4c-.56,1.33-1,2.49-1.27,3.28l0,.12,1,.25,0-.13c.12-.94.29-2.09.5-3.46ZM53.79,17.81a2,2,0,0,1-2-1.34,45.19,45.19,0,0,1-1-4.85c0-.18-.07-1.8,2.33-2.16a5.13,5.13,0,0,1,.65-.05A2,2,0,0,1,56,10.83a46.11,46.11,0,0,1,.51,4.92c0,.82-.58,1.78-2.12,2A3.75,3.75,0,0,1,53.79,17.81Zm-.5-7.2a.47.47,0,0,0-.35.24c0,.08-.09.25,0,.85l.6,3.82a3.19,3.19,0,0,0,.21.91.36.36,0,0,0,.33.19c.29,0,.42-.16.45-.34a4.45,4.45,0,0,0-.07-1l-.54-3.77a2.52,2.52,0,0,0-.19-.77.4.4,0,0,0-.34-.17h-.1Zm15.58,6.82c-1.16-.15-2.33-.25-3.49-.32l.47-8c1.3.07,2.6.19,3.89.35l-.18,1.41-1.5-.16-.11,0-.18,1.8h.11l1.35.15L69.06,14l-1.31-.14-.11,0-.21,2.05h.12l1.5.17ZM56.67,9.21c.74-.06,1.49-.12,2.24-.16l.41,8c-.64,0-1.27.08-1.91.13Zm5.69,8c-1.2,0-2-.42-2.31-1.17a6.13,6.13,0,0,1-.28-1.77l-.11-2.42c0-1.26-.1-2.23,1.27-2.79a3.64,3.64,0,0,1,1.37-.24c1,0,2.28.34,2.6,1.27A4.86,4.86,0,0,1,65,11.74l0,.66q-1,0-2.1-.06v-.51a5.66,5.66,0,0,0-.07-1.65.46.46,0,0,0-.45-.22c-.32,0-.44.14-.49.26a2.59,2.59,0,0,0-.09.86l0,3.85a2.81,2.81,0,0,0,.08.83.43.43,0,0,0,.44.26.41.41,0,0,0,.43-.26,5,5,0,0,0,.11-1.51v-.32l2,.06v.21A6,6,0,0,1,64.63,16a2.3,2.3,0,0,1-2.26,1.21Z" style="fill: #fff"></path>
+        <path d="M84.84,135.88v-5.76h1.3a3.17,3.17,0,0,1,.86.09.87.87,0,0,1,.41.25,1,1,0,0,1,.19.41,5,5,0,0,1,.05.81v.52a2.43,2.43,0,0,1-.1.79.63.63,0,0,1-.34.34,1.53,1.53,0,0,1-.7.13H86v2.42ZM86,132.66h.13c.27,0,.38,0,.45-.15a.91.91,0,0,0,.1-.51v-.49a.68.68,0,0,0-.12-.48.59.59,0,0,0-.45-.13H86Zm-4,3.22v-4.8h-.84v-1H84v1h-.83v4.8Zm-3.61,0v-5.76h2.16v1h-1v1.37h.87v.91h-.87v2.52Zm-5.83,0v-2.06l-1-3.7h1c.19,1.1.36,1.86.37,2.25h.14c0-.61.25-1.36.42-2.25h1.05l-1,3.67v2.09Zm-4.74,0v-5.76H69.1a3.1,3.1,0,0,1,1,.11.88.88,0,0,1,.49.41,2.15,2.15,0,0,1,.19,1.06,1.29,1.29,0,0,1-.12.67,1,1,0,0,1-.53.27v.23a.92.92,0,0,1,.6.35,1.66,1.66,0,0,1,.15.81v.55a2.32,2.32,0,0,1-.11.86.57.57,0,0,1-.34.34,3.62,3.62,0,0,1-1.08.1Zm1.18-.79h.12a.57.57,0,0,0,.46-.14.8.8,0,0,0,.12-.53v-.56c0-.38-.06-.49-.11-.55s-.22-.12-.47-.13H69Zm0-2.61h.26c.23,0,.33-.09.37-.18a1.78,1.78,0,0,0,.07-.7,1.12,1.12,0,0,0-.06-.43.33.33,0,0,0-.19-.21.8.8,0,0,0-.33,0H69Zm-8.23,3.4v-5.76h.94a5.65,5.65,0,0,1,1.35.1.9.9,0,0,1,.49.3,1,1,0,0,1,.21.47,8.59,8.59,0,0,1,0,1.12v2.1a4.69,4.69,0,0,1-.07,1,.7.7,0,0,1-.2.37.93.93,0,0,1-.37.19,3.3,3.3,0,0,1-.73.06Zm1.18-.8h.12c.25,0,.41-.06.48-.19a1.93,1.93,0,0,0,.08-.79v-2.33a5.42,5.42,0,0,0,0-.55.38.38,0,0,0-.16-.24.73.73,0,0,0-.38-.07h-.12Zm-4.31.8v-5.76h2.12v1h-.94v1.37h.88v.91h-.88v1.55h1v1Zm-4.08,0v-5.76h.94a5.75,5.75,0,0,1,1.36.1,1,1,0,0,1,.49.3,1.05,1.05,0,0,1,.21.47,9.22,9.22,0,0,1,0,1.12v2.1a5.71,5.71,0,0,1-.06,1,.71.71,0,0,1-.21.37.87.87,0,0,1-.37.19,3.3,3.3,0,0,1-.73.06Zm1.18-.8h.12c.25,0,.41-.06.48-.19a1.93,1.93,0,0,0,.08-.79v-2.33a5.42,5.42,0,0,0,0-.55.35.35,0,0,0-.16-.24.73.73,0,0,0-.38-.07h-.12Zm-3.31.8V134a1.37,1.37,0,0,0-.09-.66c-.07-.11-.22-.17-.46-.17h-.12v2.71H49.58v-5.76h.88a6.59,6.59,0,0,1,1.33.08.8.8,0,0,1,.5.38,2,2,0,0,1,.21,1.06,1.77,1.77,0,0,1-.14.87.72.72,0,0,1-.54.24l0,.23a1,1,0,0,1,.5.26.83.83,0,0,1,.16.31,4.2,4.2,0,0,1,0,.86v1.47Zm-.67-3.4h.12a.72.72,0,0,0,.41-.1c.1-.08.14-.25.14-.56v-.33a.6.6,0,0,0-.13-.46.59.59,0,0,0-.42-.12h-.12Zm-3.14,3.4-.08-1.08h-.72l-.09,1.08H45.5l.7-5.76H48l.78,5.76Zm-.56-4.56c-.14,1.15-.23,2-.27,2.53V134h.75l0-.13c-.07-.68-.14-1.52-.21-2.51Zm-4.21,4.56c-.15-.89-.29-1.91-.4-3H42.2c-.05.49-.18,1.5-.38,3H40.28l-.61-5.76H40.8l.29,4h.23c0-1,.18-2.37.38-4H43q0,.4.15,1.86l.15,2.28h.24c.08-1.4.21-2.8.38-4.14H45l-.61,5.76Zm-4.87,0-.08-1.08h-.72l-.09,1.08H35.86l.7-5.76h1.83l.78,5.76Zm-.56-4.56c-.14,1.15-.23,2-.27,2.53V134h.75l0-.13c-.07-.68-.14-1.52-.21-2.51Z" style="fill: #fff"></path>
+        <path d="M56.85,104v1.36H53.23v-1.14c1.07-2.12,1.71-3.43,1.91-3.94a3.31,3.31,0,0,0,.31-1.18,1,1,0,0,0-.09-.48.31.31,0,0,0-.28-.16.28.28,0,0,0-.28.17,1.79,1.79,0,0,0-.1.71v.76H53.23V99.8a7.29,7.29,0,0,1,.06-1.06,2.07,2.07,0,0,1,.28-.76,1.51,1.51,0,0,1,.58-.57,1.79,1.79,0,0,1,.86-.19,1.83,1.83,0,0,1,1.49.59A2.24,2.24,0,0,1,57,99.3a4.37,4.37,0,0,1-.28,1.45A32.32,32.32,0,0,1,55.05,104Zm4.86-3.92v2.67a8.16,8.16,0,0,1-.08,1.32,2.12,2.12,0,0,1-.34.77,1.54,1.54,0,0,1-.62.52,2.09,2.09,0,0,1-.81.16,2.5,2.5,0,0,1-1-.17,1.43,1.43,0,0,1-.63-.51,2.71,2.71,0,0,1-.33-.74,6,6,0,0,1-.09-1.23v-2.79A6.63,6.63,0,0,1,58,98.43a1.56,1.56,0,0,1,.63-.88,1.89,1.89,0,0,1,1.13-.33,2,2,0,0,1,1,.23,1.77,1.77,0,0,1,.64.56,2,2,0,0,1,.28.74A8.16,8.16,0,0,1,61.71,100.07Zm-1.65-.67a3.17,3.17,0,0,0-.05-.79.22.22,0,0,0-.24-.16.23.23,0,0,0-.24.17,3,3,0,0,0-.06.78v3.9a3.26,3.26,0,0,0,.06.84.22.22,0,0,0,.24.14.22.22,0,0,0,.23-.17,2.82,2.82,0,0,0,.06-.75ZM66.18,104v1.36H62.56v-1.14c1.07-2.12,1.71-3.43,1.91-3.94a3.54,3.54,0,0,0,.31-1.18,1,1,0,0,0-.09-.48.32.32,0,0,0-.29-.16.28.28,0,0,0-.27.17,1.62,1.62,0,0,0-.1.71v.76H62.56V99.8a7.29,7.29,0,0,1,.06-1.06A1.9,1.9,0,0,1,62.9,98a1.51,1.51,0,0,1,.58-.57,1.79,1.79,0,0,1,.86-.19,1.81,1.81,0,0,1,1.48.59,2.19,2.19,0,0,1,.51,1.49,4.15,4.15,0,0,1-.29,1.45A29.39,29.39,0,0,1,64.38,104Zm4.52,0v1.36H67.08v-1.14c1.08-2.12,1.71-3.43,1.91-3.94a3.31,3.31,0,0,0,.31-1.18,1,1,0,0,0-.09-.48.31.31,0,0,0-.28-.16.28.28,0,0,0-.28.17,1.85,1.85,0,0,0-.09.71v.76H67.08V99.8a7.29,7.29,0,0,1,.06-1.06,2.07,2.07,0,0,1,.28-.76,1.51,1.51,0,0,1,.58-.57,1.79,1.79,0,0,1,.86-.19,1.83,1.83,0,0,1,1.49.59,2.24,2.24,0,0,1,.5,1.49,4.37,4.37,0,0,1-.28,1.45A32.32,32.32,0,0,1,68.9,104Z" style="fill: #fff"></path>
+    </g>
+</svg>
+                    </a>
+                </li>
+                <li class="svgator-award svgator-award-financesOnline">
+                    <a href="https://reviews.financesonline.com/p/svgator/" aria-label="FinancesOnline" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 254 73">
+    <defs>
+        <lineargradient id="linear-gradient-fo" x1="46.16" y1="65.96" x2="46.16" y2="5.18" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#003e68"></stop>
+            <stop offset="1" stop-color="#003e68" stop-opacity="0"></stop>
+        </lineargradient>
+    </defs>
+    <path d="M250.6,15H65.28c0-.58,0-1.14-.06-1.69a1.59,1.59,0,0,0-1.38-1.52c-4.7-.64-5.82-1.47-7.63-6.2a2.09,2.09,0,0,0-1.33-1.28c-11.08-3.44-32.4-3.62-44,0A2.11,2.11,0,0,0,9.55,5.55c-1.81,4.74-2.93,5.56-7.63,6.2A1.6,1.6,0,0,0,.54,13.28c-.06,2.26-.23,4.8-.06,8.1.46,9.09,2.23,20.76,8.86,30.41,5.82,8.48,12.54,13.09,21.21,18.46a2.55,2.55,0,0,0,2.66,0c3.44-2.13,7.72-4.14,10.8-6.31H250.6a3,3,0,0,0,3-3V18A3,3,0,0,0,250.6,15Z" style="fill: #f7f8f8;stroke: #ccc;stroke-miterlimit: 10;stroke-width: 1.0009589814433766px"></path>
+    <g id="FinancesOnline_Badge" data-name="FinancesOnline Badge">
+        <path d="M250.6,15H65.28c0-.58,0-1.14-.06-1.69a1.59,1.59,0,0,0-1.38-1.52c-4.7-.64-5.82-1.47-7.63-6.2a2.09,2.09,0,0,0-1.33-1.28c-11.08-3.44-32.4-3.62-44,0A2.11,2.11,0,0,0,9.55,5.55c-1.81,4.74-2.93,5.56-7.63,6.2A1.6,1.6,0,0,0,.54,13.28c-.06,2.26-.23,4.8-.06,8.1.46,9.09,2.23,20.76,8.86,30.41,5.82,8.48,12.54,13.09,21.21,18.46a2.55,2.55,0,0,0,2.66,0c3.44-2.13,7.72-4.14,10.8-6.31H250.6a3,3,0,0,0,3-3V18A3,3,0,0,0,250.6,15Z" style="fill: #f7f8f8;stroke: #ccc;stroke-miterlimit: 10;stroke-width: 1.0009589814433766px"></path>
+        <path d="M51.38,7.41c-7.66-3-31.11-3-38.79,0a10.55,10.55,0,0,1-9,7.67C3.62,49.71,17.8,57.14,32,66c14.18-8.82,28.36-16.25,28.36-50.88A10.54,10.54,0,0,1,51.38,7.41Z" style="fill: #005691"></path>
+        <path d="M51.38,7.41C47.55,5.92,39.77,5.18,32,5.18V66c14.18-8.82,28.36-16.25,28.36-50.88A10.54,10.54,0,0,1,51.38,7.41Z" style="fill: url(#linear-gradient-fo)"></path>
+        <path d="M22.63,40.14c-6.37,0-9.14-4.29-9.14-8.22A8.2,8.2,0,0,1,16,26l0,0c2.59-2.49,5.93-2,8.1-1a7.75,7.75,0,0,1,7.78-6.46A7.22,7.22,0,0,1,38,22a1,1,0,1,1-1.72,1,5.29,5.29,0,0,0-4.39-2.52A5.81,5.81,0,0,0,26,26.37,17.56,17.56,0,0,0,26,28.51a11.53,11.53,0,0,0-4.15-2.21,4.73,4.73,0,0,0-4.49,1.11,6.08,6.08,0,0,0-1.92,4.51c0,.77.37,6.27,7.17,6.27,5.69,0,7.36-4.47,9.09-7.37,1.92-3.36,4.27-6.63,9.88-6.69,5.85,0,9,4.12,9,8A7.77,7.77,0,0,1,42.87,40a9.47,9.47,0,0,1-4.65-1.59A1,1,0,0,1,38,37a1,1,0,0,1,1.39-.25A7.84,7.84,0,0,0,42.9,38c1.22,0,5.76-1,5.76-5.9,0-3.85-3.49-6-7-6-4.57.05-6.41,2.59-8.16,5.67-2.63,4.73-5.06,8.36-10.87,8.36Z" style="fill: #fff"></path>
+        <path d="M84,23.35l-5.67,14H75.93l-5.67-14h2.1a.88.88,0,0,1,.87.6c3.55,9.17,3.54,9,3.92,10.53C77.48,33,77.36,33.42,81,24a.91.91,0,0,1,.86-.6Zm4.08,2.08v3.9H93v2H88.05v4h6.24V37.4H85.43v-14h8.86v2.08Zm19.52,12h-2.36a1,1,0,0,1-1-.52c-3.21-4.88-3-4.71-3.32-4.86s-.54-.11-1.71-.11V37.4H96.6v-14h4.28c3,0,5.42,1.07,5.42,4a4.08,4.08,0,0,1-3.1,4C103.86,31.78,103.69,31.68,107.57,37.4ZM100.85,30c1.67,0,2.89-.78,2.89-2.45s-1.21-2.22-2.86-2.22H99.21V30Zm10.87,7.36h-2.63v-14h2.63Zm5.76-12v4.16h5.26v2.09h-5.26V37.4h-2.63v-14h8.87v2.08Zm11,12h-2.63v-14h2.63Zm5.76-12v3.9h4.91v2h-4.91v4h6.24V37.4h-8.87v-14h8.87v2.08Zm21,4.95a6.73,6.73,0,0,1-7.12,7h-5.35v-14c5.65,0,6.61-.13,8.27.52A6.67,6.67,0,0,1,155.26,30.38Zm-2.68,0c0-3.25-1.84-4.95-4.44-4.95h-2.73v9.89c2.9,0,3.55.09,4.58-.34C151.84,34.22,152.58,32.4,152.58,30.38Zm23.84,9.77c-2.26,0-2.5,0-3-.12s-.53-.29-2.75-2.74a7.49,7.49,0,0,1-7.25-1.77,7.68,7.68,0,0,1,0-10.28,7.59,7.59,0,0,1,8.89-1.09c4.42,2.53,4.41,9.37.54,12.12Zm-12.29-9.77c0,3.2,1.83,4.94,4.45,4.94,2.9,0,4.44-2,4.44-4.94s-1.55-5-4.44-5S164.13,27.49,164.13,30.38Zm19.51,4.91c2.09,0,3.21-1.46,3.21-3.52V23.35h2.61v8.42a5.48,5.48,0,0,1-3.39,5.36,7.09,7.09,0,0,1-4.87,0,5.48,5.48,0,0,1-3.39-5.36V23.35h2.62v8.41C180.43,33.87,181.6,35.29,183.64,35.29ZM204.1,37.4c-2.21,0-2.3.05-2.57-.17a1,1,0,0,1-.32-.42l-1.05-2.87h-5.82l-1.05,2.87a.91.91,0,0,1-.86.59h-2l5.53-14h2.66Zm-4.61-5.3c-2-5.53-2-5.25-2.25-6.34A61.81,61.81,0,0,1,195,32.1Zm14.3,3.15V37.4h-8.23v-14h2.61v11.9Zm4.49,2.15h-2.63v-14h2.63Zm12.95-11.9H227V37.4h-2.61V25.5h-4.24V23.35h11.09ZM239.11,32V37.4H236.5V32l-5.12-8.61c2.43,0,2.58-.05,2.85.17s.06-.08,2.9,5.11a13,13,0,0,1,.7,1.52,11.33,11.33,0,0,1,.67-1.52c2.78-5.12,2.59-4.85,2.87-5.09s.32-.19,2.86-.19Z"></path>
+        <path d="M88.8,46.1v3.18h4v1.6h-4v4.38h-2V44.5h6.79v1.6Zm8.65-.7a1.19,1.19,0,0,1-1.19,1.16,1.17,1.17,0,0,1,0-2.33A1.19,1.19,0,0,1,97.45,45.4Zm-.25,2.23v7.63H95.35V47.63Zm4,.93a3.16,3.16,0,0,1,2.35-1.05c1.69,0,2.58,1.2,2.58,2.89v4.86h-1.84V50.4c0-1.85-1.81-1.83-3-.66v5.52H99.46V47.63h1.12a.45.45,0,0,1,.47.33Zm6.88.13c1.75-1.61,5-1.81,5.81.56.25.72.19.83.19,6-1.46,0-1.32.09-1.62-.95a4.66,4.66,0,0,1-1.14.79,3,3,0,0,1-3-.24,2,2,0,0,1-.22-2.67c.89-1,2.79-1.27,4.16-1.31v-.44c0-.92-.36-1.5-1.27-1.5a2.8,2.8,0,0,0-1.66.57.71.71,0,0,1-.73,0C108.41,49.37,108.4,49.3,108.06,48.69Zm4.2,3.31c-1,0-2.81.18-2.81,1.21,0,.64.4.9,1,.9a2.23,2.23,0,0,0,1.78-.82Zm5.63-3.44a3.16,3.16,0,0,1,2.35-1.05c1.69,0,2.58,1.2,2.58,2.89v4.86H121V50.4c0-1.85-1.81-1.83-3-.66v5.52h-1.84V47.63h1.12a.45.45,0,0,1,.47.33Zm12.13.9c-.18,0-.25-.07-.59-.27a2,2,0,0,0-2.53.39,3.74,3.74,0,0,0,0,3.73,1.89,1.89,0,0,0,2.55.31c.34-.24.41-.34.63-.34s.26.07.87.84a3.74,3.74,0,0,1-3,1.25c-1.89,0-3.44-1.45-3.44-3.94,0-2.29,1.35-3.92,3.71-3.92a3.53,3.53,0,0,1,2.65,1.06C130.38,49.28,130.31,49.46,130,49.46Zm3.76,2.21c.1,1.36.72,2.28,2.09,2.28a2.6,2.6,0,0,0,1.33-.34c.43-.22.56-.33.78-.33a.38.38,0,0,1,.34.17l.53.67a4,4,0,0,1-3.15,1.25c-2.16,0-3.75-1.48-3.75-4.09a3.56,3.56,0,0,1,3.66-3.77A3.17,3.17,0,0,1,138.93,51c0,.44,0,.7-.43.7Zm3.5-1.11a1.57,1.57,0,0,0-1.63-1.74,1.77,1.77,0,0,0-1.83,1.74Zm8.07-1.45c-.25.4-.6.16-1,0a2.43,2.43,0,0,0-1.07-.24c-.59,0-1.16.24-1.16.83,0,1.32,3.73.7,3.73,3.16,0,1.68-1.32,2.54-3,2.54a4.14,4.14,0,0,1-2.65-.94c.45-.74.46-.8.62-.89a.57.57,0,0,1,.6,0,3.65,3.65,0,0,0,.83.41c.61.22,1.61.12,1.86-.48a.74.74,0,0,0-.09-.78c-.72-.77-2.78-.56-3.44-2a2.33,2.33,0,0,1,0-1.76c.77-1.74,3.76-1.9,5.21-.49Zm12.69.77c0,7.35-10.89,7.33-10.89,0S158,42.51,158,49.88Zm-2,0c0-2.22-1.18-3.79-3.4-3.79s-3.41,1.57-3.41,3.79,1.23,3.79,3.41,3.79S156,52.12,156,49.88Zm5.49-1.32a3.18,3.18,0,0,1,2.36-1.05c1.69,0,2.57,1.21,2.57,2.89v4.86h-1.83V50.4a1.66,1.66,0,0,0-.32-1.08c-.44-.53-1.6-.63-2.66.42v5.52h-1.83V47.63h1.12a.46.46,0,0,1,.47.33Zm8.92-4.35v11h-1.84v-11Zm4.38,1.19a1.19,1.19,0,0,1-1.19,1.16,1.17,1.17,0,0,1,0-2.33A1.19,1.19,0,0,1,174.79,45.4Zm-.25,2.23v7.63h-1.85V47.63Zm4,.93a3.15,3.15,0,0,1,2.35-1.05c1.69,0,2.58,1.21,2.58,2.89v4.86h-1.84V50.4a1.66,1.66,0,0,0-.32-1.08c-.44-.53-1.6-.63-2.66.42v5.52H176.8V47.63h1.12a.45.45,0,0,1,.47.33ZM187,51.67c.1,1.36.72,2.28,2.09,2.28a2.63,2.63,0,0,0,1.33-.34c.43-.22.56-.33.78-.33a.38.38,0,0,1,.34.17l.53.67a4,4,0,0,1-3.15,1.25c-2.17,0-3.75-1.48-3.75-4.09a3.56,3.56,0,0,1,3.66-3.77A3.17,3.17,0,0,1,192.14,51c0,.44,0,.7-.43.7Zm3.5-1.11a1.58,1.58,0,0,0-1.63-1.74A1.78,1.78,0,0,0,187,50.56Zm3.14,3.69a1.12,1.12,0,0,1,1.13-1.13,1.13,1.13,0,0,1,1.13,1.13,1.11,1.11,0,0,1-1.13,1.11A1.09,1.09,0,0,1,193.63,54.25Zm9.27-4.79c-.18,0-.25-.07-.59-.27a2,2,0,0,0-2.54.39,3.76,3.76,0,0,0,0,3.73,1.89,1.89,0,0,0,2.55.31c.34-.24.41-.34.63-.34s.26.07.86.84a3.71,3.71,0,0,1-3,1.25c-1.88,0-3.44-1.43-3.44-3.94,0-2.28,1.34-3.92,3.71-3.92a3.53,3.53,0,0,1,2.65,1.06C203.26,49.28,203.19,49.46,202.9,49.46Zm5.72-2a3.59,3.59,0,0,1,3.76,3.92,3.78,3.78,0,1,1-7.55,0A3.61,3.61,0,0,1,208.62,47.51Zm0,6.45c1.42,0,1.87-1.09,1.87-2.52s-.45-2.53-1.87-2.53-1.9,1.1-1.9,2.53S207.18,54,208.62,54Zm5.55,1.3V47.63h1.13a.46.46,0,0,1,.47.33l.11.57a2.65,2.65,0,0,1,2.06-1,1.92,1.92,0,0,1,1.88,1.43,2.81,2.81,0,0,1,4.39-.67,3.15,3.15,0,0,1,.68,2.13v4.86h-1.84V50.4a1.62,1.62,0,0,0-.32-1.1,1.34,1.34,0,0,0-2.17.47c-.14.37-.1.28-.1,5.49h-1.85V50.4c0-.89-.31-1.46-1.21-1.46a1.84,1.84,0,0,0-1.39.73v5.59Z" style="fill: #005691"></path>
+    </g>
+</svg>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="svgator-container svgator-legal">
+        <div class="svgator-inner">
+            <ul class="svgator-legal-links">
+                <li><a href="https://www.svgator.com/terms-of-service">Terms of Service</a></li>
+                <li>|</li>
+                <li><a href="https://www.svgator.com/privacy-policy">Privacy Policy</a></li>
+            </ul>
+            <div>© 2023 SVGator. All Rights Reserved.</div>
+        </div>
+    </div>
+</footer>
+			</div>
+		</div>
+		<div id="notifications" class="global-notification">
+	<div class="subscribe">You’ve successfully subscribed to SVGator Blog</div>
+	<div class="signin">Welcome back! You’ve successfully signed in.</div>
+	<div class="signup">Great! You’ve successfully signed up.</div>
+	<div class="expired">Your link has expired</div>
+	<div class="checkout-success">Success! Check your email for magic link to sign-in.</div>
+</div>
+		<div id="search" class="search-section">
+	<span id="search-close" class="search-close"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M15.742 12l7.483 7.483c.497.497.775 1.17.775 1.872A2.658 2.658 0 0 1 21.355 24a2.646 2.646 0 0 1-1.872-.775L12 15.742l-7.483 7.483A2.646 2.646 0 0 1 2.645 24 2.658 2.658 0 0 1 0 21.355c0-.702.278-1.375.775-1.872L8.258 12 .775 4.517A2.646 2.646 0 0 1 0 2.645 2.658 2.658 0 0 1 2.645 0c.702 0 1.375.278 1.872.775L12 8.258 19.483.775A2.646 2.646 0 0 1 21.353 0 2.658 2.658 0 0 1 24 2.647c0 .7-.278 1.373-.775 1.87L15.742 12z"></path></svg></span>
+	<div id="search-content" class="search-content">
+		<form class="search-form" onsubmit="return false">
+			<input id="search-input" type="text" placeholder="Type your keywords">
+			<div class="search-meta">
+				<span id="search-info">Please enter at least 3 characters</span>
+				<span id="search-counter" class="is-hide">
+					<span id="search-counter-results">0</span>
+					Results for your search
+				</span>
+			</div>
+		</form>
+		<div id="search-results" class="search-results"></div>
+	</div>
+	<div id="search-overlay" class="search-overlay"></div>
+</div>
+		<script src="./main_files/global.js.download"></script>
+        <script src="./main_files/svgator.js.download"></script>
+		<script src="./main_files/post.js.download"></script>
+		<script>
+const searchUrl='https://www.svgator.com/blog',searchKey="7d65379896a9e7ba9a62f7cc27",searchAPI=searchUrl+'/ghost/api/v4/content/posts/?key='+searchKey+'&limit=all&fields=url,title,published_at,custom_excerpt,visibility,html';
+</script>
+
+		<script>
+!function(){"use strict";const p=new URLSearchParams(window.location.search),isAction=p.has("action"),isStripe=p.has("stripe"),success=p.get("success"),action=p.get("action"),stripe=p.get("stripe"),n=document.getElementById("notifications"),a="is-subscribe",b="is-signin",c="is-signup",d="is-expired",e="is-checkout-success";p&&(isAction&&(action=="subscribe"&&success=="true"&&n.classList.add(a),action=="signin"&&success=="true"&&n.classList.add(b),action=="signup"&&success=="true"&&n.classList.add(c),success=="false"&&n.classList.add(d)),isStripe&&stripe=="success"&&n.classList.add(e),(isAction||isStripe)&&setTimeout(function(){window.history.replaceState(null,null,window.location.pathname),n.classList.remove(a,b,c,d,e)},5000))}();
+</script>
+
+		
+		<!-- Ghost button styles -->
+<style> .btn-link.disabled, .btn-link[disabled], .btn.disabled, .btn[disabled], fieldset[disabled] .btn { opacity: 0.65; cursor: not-allowed; pointer-events: none; box-shadow: none; } .btn { margin-bottom: 0; padding: 9px 15px; border: 1px solid #dfe1e3; background: #fff; border-radius: 4px; color: #808284; text-transform: uppercase; text-shadow: none; white-space: nowrap; letter-spacing: 1px; font-size: 1.1rem; line-height: 1.428571429; transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease; font-family: "Open Sans", sans-serif; cursor: pointer; text-decoration: none; } a.btn { box-shadow: none; } .btn:focus, .btn:hover { border-color: #5ba4e5; color: #308ddf; } .btn-link:active, .btn-link:focus, .btn-link:hover { text-decoration: underline; } .btn.active:focus, .btn:active:focus, .btn:focus { outline: dotted thin; outline: -webkit-focus-ring-color auto 0; outline-offset: -2px; } .btn.active, .btn:active { outline: 0; background-image: none; box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2); } .btn-hover-green:active, .btn-hover-green:focus, .btn-hover-green:hover { border-color: #9fbb58; color: #859f41; } .btn-blue { border-color: #308ddf; background: #5ba4e5; color: #fff; } .btn-blue:active, .btn-blue:focus, .btn-blue:hover { border-color: #1e73be; background: #308ddf; color: #fff; } .btn-green { border-color: #859f41; background: #9fbb58; color: #fff; } .btn-green:active, .btn-green:focus, .btn-green:hover { border-color: #667b32; background: #859f41; color: #fff; } .btn-red { border-color: #d1341f; background: #e25440; color: #fff; } .btn-red:active, .btn-red:focus, .btn-red:hover { border-color: #a42919; background: #d1341f; color: #fff; } .btn-link, .btn-link:active, .btn-link:focus, .btn-link:hover { border-color: transparent; background: 0 0; color: #5ba4e5; } .btn-link.disabled, .btn-link[disabled] { color: #b2b2b2; } .btn-minor:active, .btn-minor:focus, .btn-minor:hover { border-color: #c1c1c1; background: #fff; box-shadow: none; color: #808284; } .btn-lg { padding: 12px 18px; border-radius: 4px; font-size: 1.4rem; line-height: 1.33; } .btn-sm { padding: 7px 10px; border-radius: 2px; font-size: 1rem; line-height: 1.5; } .btn-block { display: block; } .btn-block + .btn-block { margin-top: 5px; } .btn.btn-outline { background-color: #fff; } .btn.btn-blue.btn-outline { color: #5ba4e5; } .btn.btn-red.btn-outline { color: #e25440; } .btn.btn-green.btn-outline { color: #9fbb58; }</style>
+
+
+<div id="ghost-portal-root"></div><div id="st-2" class=" st-sticky-share-buttons st-left st-toggleable st-show-total "><div class="st-total ">
+  <span class="st-label">53</span>
+  <span class="st-shares">
+    Shares
+  </span>
+</div><div class="st-btn st-first" data-network="facebook" style="display: inline-block;">
+  <img alt="facebook sharing button" src="./main_files/facebook.svg">
+  
+</div><div class="st-btn" data-network="twitter" style="display: inline-block;">
+  <img alt="twitter sharing button" src="./main_files/twitter.svg">
+  
+</div><div class="st-btn" data-network="pinterest" style="display: inline-block;">
+  <img alt="pinterest sharing button" src="./main_files/pinterest.svg">
+  
+</div><div class="st-btn" data-network="sharethis" style="display: inline-block;">
+  <img alt="sharethis sharing button" src="./main_files/sharethis.svg">
+  
+</div><div class="st-btn" data-network="messenger" style="display: inline-block;">
+  <img alt="messenger sharing button" src="./main_files/messenger.svg">
+  
+</div><div class="st-btn st-last" data-network="reddit" style="display: inline-block;">
+  <img alt="reddit sharing button" src="./main_files/reddit.svg">
+  
+</div><div class="st-toggle">
+  <div class="st-left">
+    <img alt="arrow_left sharing button" src="./main_files/arrow_left.svg">
+  </div>
+  <div class="st-right">
+    <img alt="arrow_right sharing button" src="./main_files/arrow_right.svg">
+  </div>
+</div></div><div class="lightense-backdrop"></div></body></html>

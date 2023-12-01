@@ -1,0 +1,340 @@
+.svgator-footer {
+    align-items: stretch;
+    background-color: #020917;
+    color: #daedf9;
+    display: flex;
+    flex-direction: column;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    text-rendering: optimizeLegibility;
+}
+
+.svgator-footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.svgator-footer a {
+    color: inherit;
+    outline: none;
+    text-decoration: none;
+    transition: color 0.1s ease-in-out;
+}
+
+.svgator-footer a:hover {
+    color: #fff;
+}
+
+.svgator-container {
+    display: flex;
+    justify-content: center;
+    padding: 32px 0;
+    width: 100%;
+}
+
+.svgator-inner {
+    box-sizing: border-box;
+    max-width: 960px;
+    padding: 0 5%;
+    width: 100%;
+}
+
+.svgator-discover {
+    background-color: #1B222E;
+}
+
+.svgator-header {
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.svgator-discover .svgator-header {
+    text-align: center;
+}
+
+.svgator-discover ul {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.svgator-discover li {
+    flex-basis: 50%;
+    padding: 7px 0;
+}
+
+.svgator-otherPages {
+    padding: 52px 0 32px;
+}
+
+.svgator-otherPages .svgator-inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.svgator-otherPages .svgator-inner > div {
+    flex-basis: 50%;
+}
+
+.svgator-otherPages .svgator-inner > .svgator-supportDiv {
+    margin: 24px 0;
+}
+
+.svgator-otherPages .svgator-inner > .svgator-socialDiv {
+    flex-basis: 100%;
+}
+
+.svgator-otherPages .svgator-header {
+    line-height: 24px;
+}
+
+.svgator-otherPages .svgator-headerLogo {
+    align-items: center;
+    display: flex;
+    justify-content: stretch;
+}
+
+.svgator-otherPages .svgator-headerLogo a {
+    display: block;
+}
+
+.svgator-otherPages .svgator-headerLogo svg {
+    display: block;
+    height: 24px;
+    max-width: 100%;
+}
+
+.svgator-otherPages ul {
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.svgator-otherPages .svgator-socia-list {
+    display: flex;
+    list-style-type: none;
+    column-gap: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+.svgator-otherPages .svgator-socia-list li a,
+.svgator-otherPages .svgator-socia-list li svg {
+    display: block;
+}
+
+.svgator-otherPages .svgator-socia-list li  {
+    position: relative;
+    transition: all .1s ease-in-out;
+    width: 14px;
+}
+
+.svgator-otherPages .svgator-socia-list li:hover  {
+    color: #F1F7FB;
+    top: -1px;
+}
+
+.svgator-awards {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.svgator-awards .svgator-header {
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 45px;
+    text-transform: none;
+}
+
+.svgator-award-list {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 0;
+    max-width: 960px;
+    padding: 0;
+    row-gap: 48px;
+    width: 100%;
+}
+
+.svgator-award-list .svgator-award {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.svgator-award-list .svgator-award a {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.svgator-award-list .svgator-award svg {
+    max-height: 100%;
+    max-width: 100%;
+    transition: filter linear .1s;
+}
+
+.svgator-award-list .svgator-award-productHunt svg {
+    width: 172px;
+}
+
+.svgator-award-list .svgator-award-softwareSuggests svg {
+    width: 93px;
+}
+
+.svgator-award-list .svgator-award-fixThePhoto svg {
+    width: 85px;
+}
+
+.svgator-award-list .svgator-award-financesOnline svg {
+    width: 175px;
+}
+
+.svgator-legal {
+    align-items: center;
+    color: rgba(218, 237, 249, .5);
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    padding: 32px 0 60px;
+    text-align: center;
+    transition: color .1s ease-in-out;
+    width: 100%;
+}
+
+.svgator-legal .svgator-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.svgator-legal .svgator-inner > * {
+    flex-basis: 100%;
+}
+
+.svgator-legal-links {
+    display: flex;
+    column-gap: 16px;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0 0 18px;
+    padding: 0;
+}
+
+.svgator-legal-links a {
+    display: block;
+}
+
+.svgator-legal-links a:hover {
+    color: rgba(218, 237, 249, .6);
+}
+
+@media (max-width: 399px) {
+    .svgator-inner {
+        padding: 0 2%;
+    }
+}
+
+@media (min-width: 768px) {
+    .svgator-inner {
+        padding: 0;
+    }
+
+    .svgator-discover .svgator-header {
+        text-align: left;
+    }
+
+    .svgator-discover li {
+        flex-basis: 25%;
+    }
+
+    .svgator-otherPages .svgator-inner {
+        flex-wrap: nowrap;
+    }
+
+    .svgator-otherPages .svgator-inner > div {
+        flex-basis: 25%;
+    }
+
+    .svgator-otherPages .svgator-inner > .svgator-supportDiv {
+        margin: 0;
+    }
+
+    .svgator-otherPages .svgator-inner > .svgator-socialDiv {
+        flex-basis: 25%;
+    }
+
+    .svgator-award-list {
+        flex-direction: row;
+        justify-content: space-around;
+        margin: 0 auto;
+    }
+
+    .svgator-legal .svgator-inner {
+        flex-wrap: nowrap;
+    }
+
+    .svgator-legal .svgator-inner > * {
+        flex-basis: auto;
+    }
+
+    .svgator-legal-links {
+        margin: 0 32px 0 0 !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .svgator-otherPages .svgator-header {
+        line-height: 32px;
+    }
+
+    .svgator-otherPages .svgator-headerLogo {
+        width: 132px;
+    }
+
+    .svgator-otherPages .svgator-headerLogo svg {
+        height: 32px;
+    }
+
+    .svgator-award-list {
+        flex-wrap: nowrap;
+    }
+
+    .svgator-award-list .svgator-award {
+        width: auto;
+    }
+
+    .svgator-award-list .svgator-award svg {
+        filter: grayscale(1);
+    }
+
+    .svgator-award-list .svgator-award-softwareSuggests svg [data-name="Software Suggest Badge"] {
+        opacity: .75;
+        transition: opacity linear .1s;
+    }
+
+    .svgator-award-list .svgator-award-financesOnline svg [data-name="FinancesOnline Badge"] {
+        opacity: .55;
+        transition: opacity linear .1s;
+    }
+
+    .svgator-award-list .svgator-award:hover svg {
+        filter: none !important;
+        opacity: 1 !important;
+    }
+
+    .svgator-award-list .svgator-award-softwareSuggests:hover svg [data-name="Software Suggest Badge"],
+    .svgator-award-list .svgator-award-financesOnline:hover svg [data-name="FinancesOnline Badge"] {
+        opacity: 1;
+    }
+}
